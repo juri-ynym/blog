@@ -12,12 +12,12 @@ cat-name: 渡仏関連
 研究者ビザ申請の全体的な流れが知りたい場合は：
 <div class="link-card">
 <div class="link-img">
-<img src="https://julie-dayo.net/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
+<img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
 <a href="/posts/france_visa_todo" target="blank">
 <p class="link-title">フランスの博士課程】研究者ビザ申請までの流れ（2024年）</p>
 <p class="link-site">フランスPhDメモ</p>
-<p class="link-url">https://julie-dayo.net/posts/france_visa_todo/</p>
+<p class="link-url">/blog/posts/france_visa_todo/</p>
 </a>
 </div>
 </div>
@@ -74,12 +74,12 @@ Convention d'accuei（研究機関または大学による受け入れ協定書�
 
 <div class="link-card">
 <div class="link-img">
-<img src="https://julie-dayo.net/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
+<img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
 <a href="/posts/france_visa_todo" target="blank">
 <p class="link-title">フランスの博士課程】研究者ビザ申請までの流れ（2024年）</p>
 <p class="link-site">フランスPhDメモ</p>
-<p class="link-url">https://julie-dayo.net/posts/france_visa_todo/#convention-daccueil受け入れ協定書の発行を先方に依頼</p>
+<p class="link-url">/blog/posts/france_visa_todo/#convention-daccueil受け入れ協定書の発行を先方に依頼</p>
 </a>
 </div>
 </div>
@@ -148,12 +148,12 @@ Ambassade de France au Japon）](https://consulat.gouv.fr/en/ambassade-de-france
 
 <div class="link-card">
 <div class="link-img">
-<img src="https://julie-dayo.net/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
+<img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
 <a href="/posts/france_visa_todo" target="blank">
 <p class="link-title">【フランス研究者ビザ申請の流れ】研究室内定からビザ取得まで</p>
 <p class="link-site">フランスPhDメモ</p>
-<p class="link-url">https://julie-dayo.net/posts/france_visa_todo</p>
+<p class="link-url">/blog/posts/france_visa_todo</p>
 </a>
 </div>
 </div>
@@ -161,12 +161,12 @@ Ambassade de France au Japon）](https://consulat.gouv.fr/en/ambassade-de-france
 
 <div class="link-card">
 <div class="link-img">
-<img src="https://julie-dayo.net/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
+<img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
 <a href="/posts/france_visa_duration/" target="blank">
 <p class="link-title">何日かかる？ - 5日で届いたフランス研究者ビザ</p>
 <p class="link-site">フランスPhDメモ</p>
-<p class="link-url">https://julie-dayo.net/posts/france_visa_duration/</p>
+<p class="link-url">/blog/posts/france_visa_duration/</p>
 </a>
 </div>
 </div>

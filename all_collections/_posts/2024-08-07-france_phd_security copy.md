@@ -68,25 +68,25 @@ cat-name: 渡仏関連
 
 
 {% include link-card.html 
-img="https://julie-dayo.net/assets/images/pattern.png" 
+img="/blog/assets/images/pattern.png" 
 link-title="【必要書類】フランス研究者ビザ申請2024" 
 link-site="フランスPhDメモ" 
-link-url="https://julie-dayo.net/posts/france_visa_documents/" 
+link-url="/blog/posts/france_visa_documents/" 
 %}
 
 {% include link-card.html 
-img="https://julie-dayo.net/assets/images/pattern.png" 
+img="/blog/assets/images/pattern.png" 
 link-title="【フランス研究者ビザ申請の流れ】研究室内定からビザ取得まで" 
 link-site="フランスPhDメモ" 
-link-url="https://julie-dayo.net/posts/france_visa_todo" 
+link-url="/blog/posts/france_visa_todo" 
 %}
 
 
 {% include link-card.html 
-img="https://julie-dayo.net/assets/images/pattern.png" 
+img="/blog/assets/images/pattern.png" 
 link-title="何日かかる？ - 5日で届いたフランス研究者ビザ" 
 link-site="フランスPhDメモ" 
-link-url="https://julie-dayo.net/posts/france_visa_duration/" 
+link-url="/blog/posts/france_visa_duration/" 
 %}
 
 

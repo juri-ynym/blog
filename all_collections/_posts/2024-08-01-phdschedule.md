@@ -89,12 +89,12 @@ cat-name: PhD出願
 直接コンタクト時のメールの書き方は下記で紹介しています.
 <div class="link-card">
 <div class="link-img">
-<img src="https://julie-dayo.net/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
+<img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
 <a href="/posts/phd_mail/" target="blank">
 <p class="link-title">【研究室探し】海外の教授へのメールの書き方</p>
 <p class="link-site">フランスPhDメモ</p>
-<p class="link-url">https://julie-dayo.net/posts/phd_mail/</p>
+<p class="link-url">/blog/posts/phd_mail/</p>
 </a>
 </div>
 </div>
@@ -167,4 +167,3 @@ CVやCover Letterは, Overleafで配布されているテンプレートをダ�
 Reading, Listeningは過去問を一通り解いて終わりました. 
 
 
-{% include ads_h2.html %}

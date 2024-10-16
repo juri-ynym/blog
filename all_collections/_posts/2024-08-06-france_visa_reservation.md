@@ -59,24 +59,24 @@ Ambassade de France au Japon）](https://consulat.gouv.fr/en/ambassade-de-france
 
 <div class="link-card">
 <div class="link-img">
-<img src="https://julie-dayo.net/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
+<img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
 <a href="/posts/france_visa_documents/" target="blank">
 <p class="link-title">【必要書類】フランス研究者ビザ申請2024</p>
 <p class="link-site">フランスPhDメモ</p>
-<p class="link-url">https://julie-dayo.net/posts/france_visa_documents/</p>
+<p class="link-url">/blog/posts/france_visa_documents/</p>
 </a>
 </div>
 </div>
 
 <div class="link-card">
 <div class="link-img">
-<img src="https://julie-dayo.net/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
+<img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
 <a href="/posts/france_visa_todo" target="blank">
 <p class="link-title">【フランス研究者ビザ申請の流れ】研究室内定からビザ取得まで</p>
 <p class="link-site">フランスPhDメモ</p>
-<p class="link-url">https://julie-dayo.net/posts/france_visa_todo</p>
+<p class="link-url">/blog/posts/france_visa_todo</p>
 </a>
 </div>
 </div>
@@ -84,12 +84,12 @@ Ambassade de France au Japon）](https://consulat.gouv.fr/en/ambassade-de-france
 
 <div class="link-card">
 <div class="link-img">
-<img src="https://julie-dayo.net/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
+<img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
 <a href="/posts/france_visa_duration/" target="blank">
 <p class="link-title">何日かかる？ - 5日で届いたフランス研究者ビザ</p>
 <p class="link-site">フランスPhDメモ</p>
-<p class="link-url">https://julie-dayo.net/posts/france_visa_duration/</p>
+<p class="link-url">/blog/posts/france_visa_duration/</p>
 </a>
 </div>
 </div>

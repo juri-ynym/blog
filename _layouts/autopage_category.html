@@ -23,20 +23,20 @@
         {% assign documents = category[1] %}
         {% if category_name == page.title %}
           <div class="category-on">
-            <a href="/category/{{ category_name }}/"># {{ page.title_en }}</a>
+            <a href="{{site.baseurl}}/category/{{ category_name }}/"># {{ page.title_en }}</a>
           </div>
         {% else %}
           {% if category_name == "phd" %}
           <div class="category-off">
-            <a href="/category/{{ category_name }}/"># 博士</a>
+            <a href="{{site.baseurl}}/category/{{ category_name }}/"># 博士</a>
           </div>
           {% elsif category_name =="administration" %}
           <div class="category-off">
-            <a href="/category/{{ category_name }}/"># 渡仏関連</a>
+            <a href="{{site.baseurl}}/category/{{ category_name }}/"># 渡仏関連</a>
           </div>
           {% elsif category_name =="enrollment" %}
           <div class="category-off">
-            <a href="/category/{{ category_name }}/"># PhD出願</a>
+            <a href="{{site.baseurl}}/category/{{ category_name }}/"># PhD出願</a>
           </div>
           {% endif%}
         {% endif %}
