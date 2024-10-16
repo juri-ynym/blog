@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="jp">
+  {% include head.html %}
+  <body>
+    <main class="blogfeed">
+      {% include header.html %}
+
+      <section id="bio">
+        <div id="bio-avatar-wrapper">
+          <img src="{{site.data.author.dp}}" alt="Avatar missing" id="bio-avatar" />
+        </div>
+        <div id="bio-text">{{site.data.author.name}}<span class="bio-contact"><a href="https://forms.gle/QNzFbuAdrYB565GS8" target="blank"><i class="fa-solid fa-envelope"></i></a></span><br>{{site.data.author.description}}<br>
+        </div>
+      </section>
+
+
+      <section id="category-menu">
+        <div class="category-off">
+          <a href="/index.html">全記事</a>
+        </div>
+        {% for category in site.categories %}
+        {% assign category_name = category[0] %}
+        {% assign documents = category[1] %}
+        {% if category_name == page.title %}
+          <div class="category-on">
+            <a href="/category/{{ category_name }}/"># {{ page.title_en }}</a>
+          </div>
+        {% else %}
+          {% if category_name == "phd" %}
+          <div class="category-off">
+            <a href="/category/{{ category_name }}/"># 博士</a>
+          </div>
+          {% elsif category_name =="administration" %}
+          <div class="category-off">
+            <a href="/category/{{ category_name }}/"># 渡仏関連</a>
+          </div>
+          {% elsif category_name =="enrollment" %}
+          <div class="category-off">
+            <a href="/category/{{ category_name }}/"># PhD出願</a>
+          </div>
+          {% endif%}
+        {% endif %}
+      {% endfor %}
+
+      
+      
+      </section>
+
+      <h1 class="category-h1">{{ page.title_en }}</h1>
+      
+      <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemprop="item" href="{{site.baseurl}}/">
+            <span itemprop="name">ホーム</span>
+          </a>
+          <meta itemprop="position" content="1" />
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemprop="item" href="{{site.baseurl}}/categories/{{page.title | slugify}}">
+            <span itemprop="name">{{ page.title_en }}</span>
+          </a>
+          <meta itemprop="position" content="2" />
+        </li>
+      </ol>
+
+      <section id="articles">
+        {% assign category_name = page.title | downcase %}
+        {% for post in site.categories[category_name] %}
+        <article class="article">
+          <div class="article-top">
+            {% if post.thumbnail %}
+            <div class="article-thumbnail" style="background-image: url('../../{{ post.thumbnail }}');"></div>
+            {% endif %}
+          </div>
+          <div class="article-bottom">
+            <div class="article-title">
+              <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+            </div>
+            <small class="article-date">{{post.date | date_to_string}}</small>
+            <div class="article-categories">
+              {% for c in post.categories %}
+              <h1>
+                <a href="{{site.baseurl}}/category/{{c | slugify}}" data-base-url="{{site.baseurl}}" class="article-category">{{ page.title_en }}</a>
+              </h1>
+              {% endfor %}
+            </div>
+          </div>
+        </article>
+        {% endfor %}
+      </section>
+      
+      {% include footer.html %}
+    </main>
+  </body>
+</html>

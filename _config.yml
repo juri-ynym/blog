@@ -1,0 +1,34 @@
+title: フランスPhDメモ
+description: 実績も能力も無しの30歳。海外博士課程探しのこと、フランス博士課程（HCI・AR分野）のこと。
+
+markdown: kramdown
+url: "https://julie-dayo.net"
+# baseurl: ""
+
+# for atom feed
+author:
+  name: Juri Yoneyama
+  email: 
+
+plugins:
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate-v2
+
+collections_dir: all_collections
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /posts/:title/
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md","/templates"]
+
+permalink: /:category/:title/
+

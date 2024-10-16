@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="jp">
+  {% include head.html %}
+  <body>
+    <main class="blogfeed">
+      {% include header.html %} {% include bio.html %}
+
+
+      <section id="category-menu">
+
+        <div class="category-off">
+          <a href="/index.html">全記事</a>
+        </div>
+        <div class="category-off">
+          <a href="/category/enrollment"># PhD出願</a>
+        </div>
+          <div class="category-off">
+            <a href="/category/administration"># 渡仏関連</a>
+          </div>
+
+      </section>
+
+      <section id="articles">
+        {{content}}
+      </section>
+
+      
+      {% include footer.html %}
+    </main>
+
+  </body>
+</html>

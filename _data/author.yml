@@ -1,0 +1,17 @@
+name: Julie
+dp: ../../assets/images/favicon.png
+description: "社会人を経て, 工学修士. 実績も能力もないけれど, フランスで博士課程(2024~). HCI/AR分野."
+
+
+email: dev_sharad@outlook.com
+contact:
+  - title: linkedin
+    url: https://www.linkedin.com/in/srsmaurya
+  - title: github
+    url: https://github.com/sharadcodes
+  - title: twitter
+    url: https://twitter.com/iamsharadraj
+  - title: dev
+    url: https://dev.to/sharadcodes
+  - title: email
+    url: mailto:dev_sharad@outlook.com
