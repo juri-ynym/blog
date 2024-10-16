@@ -2,8 +2,8 @@ title: フランスPhDメモ
 description: 実績も能力も無しの30歳。海外博士課程探しのこと、フランス博士課程（HCI・AR分野）のこと。
 
 markdown: kramdown
-url: "https://julie-dayo.net"
-# baseurl: ""
+url: "https://juri-ynym.github.io"
+baseurl: "/blog/"
 
 # for atom feed
 author:
