@@ -91,7 +91,7 @@ cat-name: PhD出願
 <div class="link-img">
 <img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
-<a href="/posts/phd_mail/" target="blank">
+<a href="/blog/posts/phd_mail/" target="blank">
 <p class="link-title">【研究室探し】海外の教授へのメールの書き方</p>
 <p class="link-site">フランスPhDメモ</p>
 <p class="link-url">/blog/posts/phd_mail/</p>

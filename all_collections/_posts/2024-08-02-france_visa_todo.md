@@ -157,7 +157,7 @@ Convention d'accueil（コンベンションダキュー）は大学や研究期
 <div class="link-img">
 <img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
-<a href="/posts/france_phd_security/" target="blank">
+<a href="/blog/posts/france_phd_security/" target="blank">
 <p class="link-title">【フランス】博士課程入学のためのセキュリティチェック</p>
 <p class="link-site">フランスPhDメモ</p>
 <p class="link-url">/blog/posts/france_phd_security/</p>
@@ -175,7 +175,7 @@ Convention d'accueilがいつ届くかはわかりませんが、フランス大
 <div class="link-img">
 <img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
-<a href="/posts/france_visa_reservation/" target="blank">
+<a href="/blog/posts/france_visa_reservation/" target="blank">
 <p class="link-title">フランス大使館予約システムの使い方（ビザ申請</p>
 <p class="link-site">フランスPhDメモ</p>
 <p class="link-url">/blog/posts/france_visa_reservation/</p>
@@ -227,7 +227,7 @@ Convention d'accueilがいつ届くかはわかりませんが、フランス大
 <div class="link-img">
 <img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
-<a href="/posts/france_visa_documents/" target="blank">
+<a href="/blog/posts/france_visa_documents/" target="blank">
 <p class="link-title">【必要書類】フランス研究者ビザ申請2024</p>
 <p class="link-site">フランスPhDメモ</p>
 <p class="link-url">/blog/posts/france_visa_documents/</p>
@@ -288,7 +288,7 @@ Convention d'accueilがいつ届くかはわかりませんが、フランス大
 <div class="link-img">
 <img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
-<a href="/posts/france_visa_duration/" target="blank">
+<a href="/blog/posts/france_visa_duration/" target="blank">
 <p class="link-title">何日かかる？ - 5日で届いたフランス研究者ビザ</p>
 <p class="link-site">フランスPhDメモ</p>
 <p class="link-url">/blog/posts/france_visa_duration/</p>

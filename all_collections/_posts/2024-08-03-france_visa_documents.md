@@ -14,7 +14,7 @@ cat-name: 渡仏関連
 <div class="link-img">
 <img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
-<a href="/posts/france_visa_todo" target="blank">
+<a href="/blog/posts/france_visa_todo" target="blank">
 <p class="link-title">フランスの博士課程】研究者ビザ申請までの流れ（2024年）</p>
 <p class="link-site">フランスPhDメモ</p>
 <p class="link-url">/blog/posts/france_visa_todo/</p>
@@ -76,7 +76,7 @@ Convention d'accuei（研究機関または大学による受け入れ協定書�
 <div class="link-img">
 <img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
-<a href="/posts/france_visa_todo" target="blank">
+<a href="/blog/posts/france_visa_todo" target="blank">
 <p class="link-title">フランスの博士課程】研究者ビザ申請までの流れ（2024年）</p>
 <p class="link-site">フランスPhDメモ</p>
 <p class="link-url">/blog/posts/france_visa_todo/#convention-daccueil受け入れ協定書の発行を先方に依頼</p>
@@ -150,7 +150,7 @@ Ambassade de France au Japon）](https://consulat.gouv.fr/en/ambassade-de-france
 <div class="link-img">
 <img src="/blog/assets/images/pattern.png"  alt="OGP画像" data-no-lightbox></div>
 <div class="link-text">
-<a href="/posts/france_visa_todo" target="blank">
+<a href="/blog/posts/france_visa_todo" target="blank">
 <p class="link-title">【フランス研究者ビザ申請の流れ】研究室内定からビザ取得まで</p>
 <p class="link-site">フランスPhDメモ</p>
 <p class="link-url">/blog/posts/france_visa_todo</p>

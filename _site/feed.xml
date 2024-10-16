@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2024-10-16T23:13:04+02:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">フランスPhDメモ</title><subtitle>実績も能力も無しの30歳。海外博士課程探しのこと、フランス博士課程（HCI・AR分野）のこと。</subtitle><author><name>Juri Yoneyama</name></author><entry><title type="html">【フランス】滞在許可証のオンライン申請方法</title><link href="http://localhost:4000/blog/posts/france_residence_permit/" rel="alternate" type="text/html" title="【フランス】滞在許可証のオンライン申請方法" /><published>2024-09-25T00:00:00+02:00</published><updated>2024-09-25T00:00:00+02:00</updated><id>http://localhost:4000/blog/posts/france_residence_permit</id><content type="html" xml:base="http://localhost:4000/blog/posts/france_residence_permit/"><![CDATA[<p>フランスに着いたら, まずは滞在許可証（titre de séjour）の申請が必須です. オンラインでできます! この記事では博士課程でフランスに来た人(Passport talent - chercheur)のオンライン申請の方法について書きます. ※研究者以外の長期ビザ(VLS-TS)でもほとんど同じなので, 参考になると思います.</p>
+
+<h2 id="目次">目次</h2>
+
+<ul>
+  <li><a href=""></a></li>
+</ul>
+
+<h2 id="滞在許可証とは">滞在許可証とは</h2>
+
+<p>日本のフランス大使館で無事VISAをゲットしても, 実はそれだけでは長期滞在できないのです. そのVISAをアクティベートすることで滞在許可証となります. 注意しないといけないのが, 滞在許可証の申請には期限があります. VISAに記載されている期限内に行わなければいけません. （i.e. 入国予定日から3ヶ月以内）なのでフランスに着いたら真っ先に申請を行う必要があります.</p>
+
+<h2 id="滞在許可証の申請について">滞在許可証の申請について</h2>
+
+<p>コロナ前までは県庁へ行かなければならなかったようですが, <span class="marker">2024年9月現在はオンラインで申請</span>できます. 博士課程でフランスに来ている場合は, 所属機関の留学生サポート組織が一緒に行ってくれるはずなので, 一度研究室の方に聞いてみてください. “Le Centre de Mobilité Internationale 地名”, “CMI 地名”という名で存在すると思います. 私の場合は CMI Rennesでした.</p>
+
+<p>個人でももちろん行えますので, 下記にて個人で申請する方法を紹介します.</p>
+
+<h2 id="オンライン申請のやり方">オンライン申請のやり方</h2>
+
+<p><a href="https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/">Étrangers en France</a>のサイトから申請します.</p>
+
+<ol>
+  <li>“I would like to apply or renew my visa”を押します.</li>
+  <li>“Moi-même (à partir de 16 ans)” (16歳以上)を押します.</li>
+  <li>PDFをダウンロードします.</li>
+  <li>必要情報を入力していきます.</li>
+</ol>
+
+<p>フランスのビザ発給までの所要期間についてまとめました. 間違っている部分や追記あれば, 遠慮なく<a href="https://forms.gle/QNzFbuAdrYB565GS8">こちら</a>から教えてください.</p>
+
+<h2 id="関連記事">関連記事</h2>
+
+<div class="link-card">
+    <div class="link-img">
+    <img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+    <div class="link-text">
+    <a href="/blog/posts/france_visa_documents/" target="blank">
+    <p class="link-title">【必要書類】フランス研究者ビザ申請2024</p>
+    <p class="link-site">フランスPhDメモ</p>
+    <p class="link-url">/blog/posts/france_visa_documents/</p>
+    </a>
+    </div>
+    </div>
+
+<div class="link-card">
+    <div class="link-img">
+    <img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+    <div class="link-text">
+    <a href="/blog/posts/france_visa_todo" target="blank">
+    <p class="link-title">【フランス研究者ビザ申請の流れ】研究室内定からビザ取得まで</p>
+    <p class="link-site">フランスPhDメモ</p>
+    <p class="link-url">/blog/posts/france_visa_todo</p>
+    </a>
+    </div>
+    </div>
+
+<div class="link-card">
+    <div class="link-img">
+    <img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+    <div class="link-text">
+    <a href="/blog/posts/france_visa_duration/" target="blank">
+    <p class="link-title">何日かかる？ - 5日で届いたフランス研究者ビザ</p>
+    <p class="link-site">フランスPhDメモ</p>
+    <p class="link-url">/blog/posts/france_visa_duration/</p>
+    </a>
+    </div>
+    </div>
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4810310425717787" crossorigin="anonymous"></script>
+
+<p><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4810310425717787" data-ad-slot="6627749146"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>]]></content><author><name>Juri Yoneyama</name></author><category term="administration" /><summary type="html"><![CDATA[博士課程をするためにフランスに着いたら, まずしなければならない"titre de séjour"のオンライン申請について. パスポートのVISAだけでは長期滞在できません.]]></summary></entry><entry><title type="html">【フランス】博士課程入学のためのセキュリティチェック</title><link href="http://localhost:4000/blog/posts/france_phd_security-copy/" rel="alternate" type="text/html" title="【フランス】博士課程入学のためのセキュリティチェック" /><published>2024-08-07T00:00:00+02:00</published><updated>2024-08-07T00:00:00+02:00</updated><id>http://localhost:4000/blog/posts/france_phd_security%20copy</id><content type="html" xml:base="http://localhost:4000/blog/posts/france_phd_security-copy/"><![CDATA[<p>外国人学生が, フランスで博士課程に進むには政府と研究期間によるセキュリティチェックを受けなければなりません. 教授から内定をもらっても, この審査を通らなければ博士課程には進めないようです…私の体験を備忘録として書きます.</p>
+
+<h2 id="目次">目次</h2>
+
+<ul>
+  <li><a href="#セキュリティチェックとは">セキュリティチェックとは</a></li>
+  <li><a href="#セキュリティチェックの対象者">セキュリティチェックの対象者</a></li>
+  <li><a href="#セキュリティチェックで必要なこと">セキュリティチェックで必要なこと</a></li>
+  <li><a href="#最後に">最後に</a></li>
+</ul>
+
+<h2 id="セキュリティチェックとは">セキュリティチェックとは</h2>
+
+<p>フランス人以外（もしかしたら非EU国民）は, <span class="marker">フランスの公的研究機関で博士課程に進む場合,研究機関の防衛保安担当または,フランス内務省のセキュリティチェックを受けなければなりません</span>. セキュリティチェックを通過できなかった場合は, たとえ内定があっても博士課程には進めないそうです.</p>
+
+<p>よっぽどの事情がない限り、セキュリティチェックは通過するようです（出処：研究室の教授）。過去に犯罪歴があったり、テロに関与していたり、政治的に不安定な国出身であったり等。</p>
+
+<h2 id="セキュリティチェックの対象者">セキュリティチェックの対象者</h2>
+
+<p><span class="marker">工学分野で研究機関にて博士課程に進む場合は, セキュリティチェックがあるようです</span>（出処：わたし）.私はコンピュータサイエンス系の研究所で博士課程をしますが, 教授の話によると, セキュリティに関係する研究室は比較的厳しいようです.</p>
+
+<p>私はARやVRで, 国防にあまり関係ない（？）ので, そこまで厳しくないようですが, セキュリティチェック完了まで2,3ヶ月くらい待ちました.</p>
+
+<p>人文学系・心理学系の博士課程ではセキュリティチェックはないようです.（出処：Université Paris Citéで心理学の研究を行なっている中国人学生）</p>
+
+<h2 id="セキュリティチェックで必要なこと">セキュリティチェックで必要なこと</h2>
+
+<p>セキュリティチェックとは言っても,こちらがすることは特にありません. 配属予定の機関の担当者から質問がくることがあるので, その場合は返信する必要があります.</p>
+
+<h3 id="わたしが受けた質問">わたしが受けた質問</h3>
+
+<blockquote>
+  <p>出生地がドイツであるが,二重国籍か.</p>
+</blockquote>
+
+<p>私は出生地がドイツなため,質問されましたが,日本で生まれた場合は質問されません. ドイツの国籍も持っていた場合は, EUのため手続きが簡素化されたのかもしれません. 予想ですが.</p>
+
+<blockquote>
+  <p>学部卒業後に空白期間があるが, 何をしていたのか. 無職の場合は無職と記載したCVを送付してほしい.</p>
+</blockquote>
+
+<p>私は, 学部卒業後に3社で勤務し, 修士に入学しました. CVでは, 最新の職歴しか記載していなかったため, 学部卒業後から2年間空白期間となっていました. そのため, 学部卒業後の職歴を全て記載したCVを提出しました.</p>
+
+<h3 id="先輩が受けた質問">先輩が受けた質問</h3>
+
+<p>先方の研究室の留学生（韓国国籍）に問い合わせたところ, 彼は以下のような質問を受けたそうです.</p>
+
+<blockquote>
+  <p>韓国政府が関連する研究プロジェクトに参加履歴があるが, まだ続いているのか.</p>
+</blockquote>
+
+<p>おそらく政府関連のプロジェクトに入っている場合は, 手続きに何らかの影響がありそうです. ただ既に終わっている場合は大丈夫みたいです.</p>
+
+<h2 id="最後に">最後に</h2>
+
+<p>セキュリティチェックに関しては, 日本語の情報はなく, アメリカのSNS, redditでしか情報を得られませんでした. <a href="https://www.reddit.com/r/AskFrance/comments/14tzski/whats_the_security_check_duration_for_a_noneu_phd/?rdt=59420">What’s the security check duration for a non-EU PhD student to enroll to a lab in France?</a></p>
+
+<p>研究室の秘書さんから「セキュリティチェックが通らなければ、博士課程は残念ながら進めない」と言われたときはヒヤヒヤしました. 犯罪歴ない限り通りますので, ゆっくり待ちましょう。</p>
+
+<p>フランスのビザ発給までの所要期間についてまとめました. 間違っている部分や追記あれば, 遠慮なく<a href="https://forms.gle/QNzFbuAdrYB565GS8">こちら</a>から教えてください.</p>
+
+<h2 id="関連記事">関連記事</h2>
+
+<div class="link-card">
+    <div class="link-img">
+    <img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+    <div class="link-text">
+    <a href="/blog/posts/france_visa_documents/" target="blank">
+    <p class="link-title">【必要書類】フランス研究者ビザ申請2024</p>
+    <p class="link-site">フランスPhDメモ</p>
+    <p class="link-url">/blog/posts/france_visa_documents/</p>
+    </a>
+    </div>
+    </div>
+
+<div class="link-card">
+    <div class="link-img">
+    <img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+    <div class="link-text">
+    <a href="/blog/posts/france_visa_todo" target="blank">
+    <p class="link-title">【フランス研究者ビザ申請の流れ】研究室内定からビザ取得まで</p>
+    <p class="link-site">フランスPhDメモ</p>
+    <p class="link-url">/blog/posts/france_visa_todo</p>
+    </a>
+    </div>
+    </div>
+
+<div class="link-card">
+    <div class="link-img">
+    <img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+    <div class="link-text">
+    <a href="/blog/posts/france_visa_duration/" target="blank">
+    <p class="link-title">何日かかる？ - 5日で届いたフランス研究者ビザ</p>
+    <p class="link-site">フランスPhDメモ</p>
+    <p class="link-url">/blog/posts/france_visa_duration/</p>
+    </a>
+    </div>
+    </div>
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4810310425717787" crossorigin="anonymous"></script>
+
+<p><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4810310425717787" data-ad-slot="6627749146"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>]]></content><author><name>Juri Yoneyama</name></author><category term="administration" /><summary type="html"><![CDATA[外国人学生が、 フランスで博士課程に進むには政府と研究期間によるセキュリティチェックを受けなければなりません.。情報が少ないので、記事にしました。]]></summary></entry><entry><title type="html">フランス大使館予約システムの使い方（ビザ申請）</title><link href="http://localhost:4000/blog/posts/france_visa_reservation/" rel="alternate" type="text/html" title="フランス大使館予約システムの使い方（ビザ申請）" /><published>2024-08-06T00:00:00+02:00</published><updated>2024-08-06T00:00:00+02:00</updated><id>http://localhost:4000/blog/posts/france_visa_reservation</id><content type="html" xml:base="http://localhost:4000/blog/posts/france_visa_reservation/"><![CDATA[<p>フランス大使館の予約システムの使い方を紹介します. １ヶ月後しか空きがない場合は, 毎日数時間おきにチェックすることで2,3日後の予約が取れます.</p>
+
+<p>「出国が迫っているのに, 予約が取れない」と焦っている方, 落ち着いでください. 私も出国ギリギリにしか予約できなかったのですが, 毎日予約システムをチェックすることで, 直近の空き時間を予約できました.</p>
+
+<h2 id="目次">目次</h2>
+<ul>
+  <li><a href="#ビザ申請のためのフランス大使館の予約システム">ビザ申請のためのフランス大使館の予約システム</a></li>
+  <li><a href="#フランス大使館予約システムの使い方">フランス大使館予約システムの使い方</a></li>
+  <li><a href="#1ヶ月後しか空いていないと焦っている方へ">1ヶ月後しか空いていない！と焦っている方へ</a></li>
+</ul>
+
+<h2 id="ビザ申請のためのフランス大使館の予約システム">ビザ申請のためのフランス大使館の予約システム</h2>
+
+<p>研究者・学生・ワーホリなど, フランスのビザ申請書類はフランス大使館に直接持っていかなければなりません. 持って行く日は, 事前に専用の予約システムから予約しなければなりません. この記事では, 予約システムの使い方と, 出国が迫っているのに予約が取れない人向けに予約のコツ（？）を書いています.</p>
+
+<h2 id="フランス大使館予約システムの使い方">フランス大使館予約システムの使い方</h2>
+<p><a href="https://consulat.gouv.fr/en/ambassade-de-france-a-tokyo/appointment?name=Visa">Appointment booking service with the French consular services （
+Ambassade de France au Japon）</a>へアクセスします.</p>
+
+<h3 id="1-注意書きを読んでaccess-to-seriviceへ進む">1. 注意書きを読んで”Access to Serivice”へ進む</h3>
+<p><img src="../../assets/images/articles/240718-01.jpg" alt="最初の画面" /></p>
+
+<h3 id="2-注意書きページがもう一度出るので進む">2. 注意書きページがもう一度出るので進む</h3>
+<p>注意書きを読んでから, “Book an appointment”をクリックして予約に進む
+<img src="../../assets/images/articles/240718-05.jpg" alt="注意書きページ" /></p>
+
+<h3 id="3-希望日時間を選択して進む">3. 希望日・時間を選択して進む</h3>
+<p>空き時間がある日程は, 左側のカレンダーで黄緑色になっています. いずれかをクリックすると, 空いている時間が右側に表示されます. 下図だと10:30と11:00に空きがあります. 都合が良い方を選び”Validate the calendar”をクリックします. 
+<a href="../../assets/images/articles/240718-02.jpg"><img src="../../assets/images/articles/240718-02.jpg" alt="最初の画面" /></a></p>
+
+<h3 id="4-必要情報を入力">4. 必要情報を入力</h3>
+<p>名前がパスポートと違ったり, ひらがなや全角で入力されていると, 予約はキャンセルとなるそうです. 
+誕生日もパスポートと異なっていると, 予約がキャンセルになる可能性があるので, チェックは念入りに！
+<img src="../../assets/images/articles/240718-03.jpg" alt="情報入力の画面" /></p>
+
+<h3 id="5-予約確認メールが来る">5. 予約確認メールが来る</h3>
+<p>必要情報を入力し終えると, 次の画面で予約確認書が表示されます. また同時にメールでも予約確認書が届きます. 
+メールで届いた予約確認書は, 大使館に入館する際に必要なので印刷しましょう. 
+<img src="../../assets/images/articles/240718-04.jpg" alt="予約確認書の画面" /></p>
+
+<h2 id="1ヶ月後しか空いていないと焦っている方へ">1ヶ月後しか空いていない！と焦っている方へ</h2>
+<p>急遽ポジションが決まって, 7,8月で予約を取らないといけないという状況もあるかと思います. その場合は, 毎日<a href="https://consulat.gouv.fr/en/ambassade-de-france-a-tokyo/appointment?name=Visa">予約サイト</a>をチェックして, 空き時間がないかを確認しましょう.</p>
+
+<p>意外と直前キャンセルする人がいるので, 2,3日後に急に空きが出たりします. 私は軽い気持ち（旅行の予定を優先・・・）で, 7/30の予約をキャンセルしたところ, 次回予約が9月初旬まで空いておらずヒヤヒヤしました（笑）<span class="marker">1週間, 毎日2時間おきくらいに予約サイトをチェック</span>し, 7/18の枠を予約することができました. 軽い気持ちでキャンセルするのはやめましょう.</p>
+
+<h2 id="関連記事">関連記事</h2>
+
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/blog/posts/france_visa_documents/" target="blank">
+<p class="link-title">【必要書類】フランス研究者ビザ申請2024</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/france_visa_documents/</p>
+</a>
+</div>
+</div>
+
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/blog/posts/france_visa_todo" target="blank">
+<p class="link-title">【フランス研究者ビザ申請の流れ】研究室内定からビザ取得まで</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/france_visa_todo</p>
+</a>
+</div>
+</div>
+
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/blog/posts/france_visa_duration/" target="blank">
+<p class="link-title">何日かかる？ - 5日で届いたフランス研究者ビザ</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/france_visa_duration/</p>
+</a>
+</div>
+</div>]]></content><author><name>Juri Yoneyama</name></author><category term="administration" /><summary type="html"><![CDATA[フランス大使館の予約システムの使い方を紹介します。１ヶ月後しか空きがない場合は、毎日数時間おきにチェックすることで2〜3日後の予約が取れます。]]></summary></entry><entry><title type="html">【研究室探し】海外の教授へのメールの書き方</title><link href="http://localhost:4000/blog/posts/phd_mail/" rel="alternate" type="text/html" title="【研究室探し】海外の教授へのメールの書き方" /><published>2024-08-05T00:00:00+02:00</published><updated>2024-08-05T00:00:00+02:00</updated><id>http://localhost:4000/blog/posts/phd_mail</id><content type="html" xml:base="http://localhost:4000/blog/posts/phd_mail/"><![CDATA[<p>海外で博士課程を探す際に, 教授に直接メールをする時があります. 私が色々メールを送った結果, 個人的に返信率が高かったかな？と思うメールの構成を紹介します.</p>
+
+<h2 id="目次">目次</h2>
+<ul>
+  <li><a href="#メールの返信率の鍵">メールの返信率の鍵</a></li>
+  <li><a href="#メールの内容構成例">メールの内容構成例</a>
+    <ul>
+      <li><a href="#1段落目自己紹介-共通の知り合い等">1段落目：自己紹介, 共通の知り合い等</a></li>
+      <li><a href="#2段落目自分の研究内容と実績">2段落目：自分の研究内容と実績</a></li>
+      <li><a href="#3段落目相手の研究室を志望する理由">3段落目：相手の研究室を志望する理由</a></li>
+      <li><a href="#4段落目締め">4段落目：締め</a></li>
+    </ul>
+  </li>
+  <li><a href="#英文の作成-校正方法">英文の作成, 校正方法</a></li>
+  <li><a href="#最後に">内容以外のコツ</a></li>
+</ul>
+
+<h2 id="メールの返信率の鍵">メールの返信率の鍵</h2>
+
+<p>「返事をもらうコツ」をインターネットで調べると短い方が良いとか色々出てきますが, 結局返信するかどうかは教授によります. 私は1段落2〜4行を4段落で構成したメールを送り続けました。単語数で言うと350 wordsくらいです. メールにはCVも添付しました.</p>
+
+<h3 id="教授と共通のつながりがあるかどうか">教授と共通のつながりがあるかどうか</h3>
+<p>また, 教授と共通の繋がりがあるかどうか（e.g. 現在所属している研究室と過去に共同研究をしていた等）が返信率の最大の鍵です. そのため, 教授との関係性でメールの内容は変える必要があると思っています.</p>
+
+<p>返信率が低い順に：</p>
+<ol>
+  <li>興味のある論文の著者（教授）</li>
+  <li>知り合いに紹介してもらった教授</li>
+  <li>研究室間でつながりのある教授</li>
+</ol>
+
+<p>当たり前ですが, (1)は見ず知らずの学生からメールが来るわけですから, 返信率は良くありません. 参考に私のコンタクト結果を下記に示します.</p>
+
+<ol>
+  <li>興味のある論文の著者（教授）
+  4件中（オランダ, ドイツ, イスラエル x 2）, 2件返信が来ました.</li>
+  <li>知り合いに紹介してもらった教授
+  5件中（フランス x 3, イギリス x 2）, 4件返信が来ました.</li>
+  <li>研究室間でつながりのある教授
+  3件中（ニュージーランド, フランス, イギリス）, 3件返信が来ました.</li>
+</ol>
+
+<h3 id="内容は先方に合わせてカスタマイズ">内容は先方に合わせてカスタマイズ</h3>
+
+<p>メールは同じ内容で送信するのではなく, 先方（教授）の研究を下調べし, 「あなたのXXXXといった研究に興味があり, 自分のXXXXという研究がいかに関連するか, 力になれるか」を記載するように心がけました. 次の章で構成・例文を紹介します.</p>
+
+<h2 id="メールの内容構成例">メールの内容構成例</h2>
+
+<p>メールは4段落で構成しました：</p>
+<ul>
+  <li>1段落目：自己紹介, 先方の教授との繋がりアピール</li>
+  <li>2段落目：自分の研究や実績</li>
+  <li>3段落目：先方の研究室で研究をしたい理由</li>
+  <li>4段落目：締め</li>
+</ul>
+
+<p>メールの短さよりは, メールの見やすさを意識して, 改行や太字を使いました. また, 自分の研究の紹介動画や論文へのリンクも追加しました. 下記がメール全文です. 段落ごとのポイントはその後の章で説明します.</p>
+
+<blockquote>
+  <p>Dear Professor XXXX, <br />
+I hope this email finds you well. 
+My name is ｛名前｝, master’s student in ｛研究領域｝ at ｛大学名｝ in Japan. 
+Dr. ｛紹介してくれた知り合いの名前｝ from the ｛大学名｝ introduced me to you when I was searching for a PhD candidate position.
+I am writing to enquire if there are any available PhD candidate positions in {研究室名} at the moment. Below are some details about my background:<br /><br />
+<strong>1. My Research Interests and Background：</strong><br />
+・ My research interest is ｛自分の研究分野｝: In my Master’s program, my research focuses ｛修士の研究内容要約（1文）｝. This involves ｛修士の研究内容の手法や結論（1文）｝ (<span style="text-decoration:underline;">Demo video here</span>).<br />
+・Robust research background in ｛自分の研究分野｝: I am conducting my master’s research under Professor ｛指導教諭名｝. In line with the research-focused approach of master’s programs in Japan, I’ve authored two papers during my studies. <span style="text-decoration:underline;">One</span> was accepted as a first-author contribution at the ｛国際学会名｝, and the other is under review.  <br /><br />
+<strong>2. Motivation: </strong><br />
+I was deeply impressed by your research, which has explored ｛先方の教授が研究で明らかにしたこと｝. I share a keen interest in this field. Additionally, I am interested in ｛教授の研究と自分の研究の共通点｝. Particularly, I want to research applications for ｛自分の研究が社会にどう役立つのか｝<br /><br />
+If there are currently available PhD candidate positions, I would appreciate it if we could arrange a time for an interview. I am on schedule to complete my Master’s degree in March 2024.
+I have attached my CV for your review.<br /><br />
+Thank you very much for taking the time to consider my email. I hope to hear from you.<br /><br />
+Best regards,<br />
+{名前}</p>
+</blockquote>
+
+<h3 id="1段落目自己紹介-共通の知り合い等">1段落目：自己紹介, 共通の知り合い等</h3>
+
+<p>1段落目では, (1)自己紹介, (2)先方の教授との繋がりのアピール（ない場合は現在の指導教諭の名前を載せてみる）, (3) このメールを書いた目的 を簡潔に書きました.</p>
+
+<p>(2)を書く理由は, 見ず知らずの人ではないですよ！アピールです. PhDポジション探しをして感じたのは良い意味での「コネ」が非常に重要ということです. 人気の研究室だと何百人からの学生から問い合わせがあるので, その中で印象付けるためにはコネがわかりやすいと感じます.</p>
+
+<p>コネがない場合には(2)は省略する. もしくは所属している研究室が有名であったり, 指導教諭が偉大な人であれば, 恩恵を預かりましょう. （あまり気乗りはしませんが, 仕方ない）</p>
+
+<h4 id="先方の教授と繋がりがある場合">先方の教授と繋がりがある場合</h4>
+
+<blockquote>
+  <p>Dear Professor XXXX, <br />
+I hope this email finds you well. 
+My name is ｛名前｝, master’s student in ｛研究領域｝ at ｛大学名｝ in Japan. 
+<span class="marker">Dr. ｛紹介してくれた知り合いの名前｝ from the ｛大学名｝ introduced me to you </span> when I was searching for a PhD candidate position.
+I am writing to enquire if there are any available PhD candidate positions in {研究室名} at the moment. Below are some details about my background:</p>
+</blockquote>
+
+<p>知り合いです感を出しました.</p>
+
+<h4 id="繋がりがない場合">繋がりがない場合</h4>
+
+<blockquote>
+  <p>My name is ｛名前｝, and I am a master’s student in ｛研究領域｝ at ｛大学名｝ in Japan, <span class="marker">conducting research under the guidance of {指導教諭の名前}</span>.
+I am writing to enquire if there are any available PhD candidate positions at {研究室名} for 2024. I am scheduled to complete my master’s degree in March 2024. Below are some details about my background:</p>
+</blockquote>
+
+<p>自分は指導教諭が, その分野で著名な方だったので, 名前を書かせていただきました.</p>
+
+<h3 id="2段落目自分の研究内容と実績">2段落目：自分の研究内容と実績</h3>
+
+<p>2段落目は, 自分の研究内容や実績について書きました.</p>
+
+<blockquote>
+  <p><strong>My Research Interests and Background：</strong><br />
+・ <span class="marker">My research interest is ｛自分の研究分野｝</span>: In my Master’s program, my research focuses ｛修士の研究内容要約（1文）｝. This involves ｛修士の研究内容の手法や結論（1文）｝ (<span style="text-decoration:underline;">Demo video here</span>).<br />
+・<span class="marker">Robust research background in ｛自分の研究分野｝</span>: I am conducting my master’s research under Professor ｛指導教諭名｝. In line with the research-focused approach of master’s programs in Japan, I’ve authored two papers during my studies. <span style="text-decoration:underline;">One</span> was accepted as a first-author contribution at the ｛国際学会名｝, and the other is under review.</p>
+</blockquote>
+
+<p>“My Research Interests and Background：”を太字のタイトルにし, “My research interest is ｛自分の研究分野｝”と”Robust research background in ｛自分の研究分野｝”を箇条書きにして, <span class="marker">端的に研究分野とバックグランドを述べる</span>よう意識しています.</p>
+
+<p>ヨーロッパでは修士で研究をガッツリするのは珍しく, コースワークが多いということで, <span class="marker">日本の修士の研究経験は強み</span>になると聞いたので, “Robust research background”としてアピールしました.</p>
+
+<p>メールにはリンクを2つ追加しました. “Demo video here”と”One”の部分です. “Demo video here”は自分の研究の紹介動画へのリンクです. 国際学会で提出が義務付けられており, たまたま持っていたのでそちらを使いました. “One” は自分の論文へのリンクです.</p>
+
+<h3 id="3段落目相手の研究室を志望する理由">3段落目：相手の研究室を志望する理由</h3>
+
+<p>3段落目では, なぜ先方（教授・研究室）に興味があるのか, 自分がどう力になれるのかに焦点を当てて, 簡潔に書きました.</p>
+
+<blockquote>
+  <p><strong>Motivation: </strong><br />
+I was deeply impressed by your research, which has explored ｛先方の教授が研究で明らかにしたこと｝. I share a keen interest in this field. Additionally, I am interested in ｛教授の研究と自分の研究の共通点｝. Particularly, I want to research applications for ｛自分の研究が社会にどう役立つのか｝</p>
+</blockquote>
+
+<p>先方の教授（研究室）の論文をいくつか読み, 明らかになったことに関心があるアピール, それらと自分の現在の研究に共通点があれば, その部分をアピールしました.</p>
+
+<p>また, <span class="marker">上記研究結果が社会にどう還元されると思うか</span>という意見で段落を終えるようにしていました.</p>
+
+<h3 id="4段落目締め">4段落目：締め</h3>
+
+<blockquote>
+  <p>If there are currently available PhD candidate positions, I would appreciate it if we could arrange a time for an interview. <span class="marker">I am on schedule to complete my Master’s degree in March 2024</span>.
+I have attached my CV for your review.<br />
+Thank you very much for taking the time to consider my email. I hope to hear from you.<br /><br />
+Best regards,<br />
+{自分の名前}</p>
+</blockquote>
+
+<p>最後に, <span class="marker">自分がいつから博士課程に参加できるのか</span>を明確に記載しました. CVを添付して終わりです.</p>
+
+<h2 id="英文の作成-校正方法">英文の作成, 校正方法</h2>
+
+<p>英文の作成, 校正には<a href="https://chatgpt.com/" target="blank">chatGPT</a>の力を借りました.</p>
+
+<h3 id="英文の作成">英文の作成</h3>
+
+<p>ベースは自分で考えつつ, もっと良い表現がほしい時にchatGPTを使いました. chatGPT感あると感じた表現は, 言い換えを色々検索して変えました. ”keen interests”は個人的にchatGPT感ありますが, 使用しています.</p>
+
+<h3 id="校正">校正</h3>
+<p>校正もchatGPTです. chatGPTに「世界中からメールをもらう教授であると想定し, 下記で共有するメールが魅力的なメールであるかどうかをチェックしてほしい.」というプロンプトを入れます.</p>
+
+<blockquote>
+  <p>Please assume that you’re professor in {研究領域}, who is receiving many emails from candidates all over the world. Could you review the following email so that the email can impress the professor.”</p>
+</blockquote>
+
+<p>その後, 作成したメールの個人情報部分を伏せてchatGPTに送信します.</p>
+
+<h2 id="内容以外のコツ">内容以外のコツ</h2>
+
+<p>1回目で返事が来ない場合は, 1,2週間後にもう一度送りましょう. 毎日たくさんのメールを見ている教授達なので, わたしたちからのメールはすぐ流れてしまいます. 「先週も送りましたが」みたいな前置きは失礼と思ったので, 私は同じ内容のメール＋お忙しいところありがとうみたいな例文を追記して再送しました. 私は最高3回送って, 3回目で返信が来ました.　バケーションシーズン（クリスマス, 年始, イースター休暇, 7〜8月）も避けましょう.</p>
+
+<h2 id="関連記事">関連記事</h2>
+
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/blog/posts/phdschedule/" target="blank">
+<p class="link-title">ヨーロッパで博士課程に進むためには</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/phdschedule/</p>
+</a>
+</div>
+</div>]]></content><author><name>Juri Yoneyama</name></author><category term="enrollment" /><summary type="html"><![CDATA[海外で博士課程を探す際に, 教授に直接メールをする時があります.私が色々試して, 返信率の良かったメールの内容を紹介します. 必ず返事くることは保証できませんので参考程度にしてください.]]></summary></entry><entry><title type="html">何日かかる？ - 5日で届いたフランス研究者ビザ</title><link href="http://localhost:4000/blog/posts/france_visa_duration/" rel="alternate" type="text/html" title="何日かかる？ - 5日で届いたフランス研究者ビザ" /><published>2024-08-04T00:00:00+02:00</published><updated>2024-08-04T00:00:00+02:00</updated><id>http://localhost:4000/blog/posts/france_visa_duration</id><content type="html" xml:base="http://localhost:4000/blog/posts/france_visa_duration/"><![CDATA[<p>フランス大使館でのビザ申請から何日くらいでビザは届くのだろうか…？と気になっている人も多いかと思います。
+私はフランス大使館が混雑する7月（正確には2024年7月18日（木曜））に申請して、5日後の7月23日（火曜）には家に届きました。つまり、土日を除けば<strong>3日でビザが手元に届いた</strong>ということになります。仕事はや…</p>
+
+<div class="box_cus">
+<div class="cus_title">
+  <span>関連記事</span>
+</div>
+  <div class="cus_inner">
+<ul>
+<li> 申請の流れ：<a href="../../posts/france_visa_flow/" target="blank">【フランスの博士課程】研究者ビザ申請までの流れ（2024年）</a></li>
+<li> 必要書類：<a href="../../posts/france_visa_documents/" target="blank">【フランスビザ申請時の必要書類】博士課程・ポスドクへ進む方へ</a></li>
+</ul>
+  </div> 
+</div>
+
+<h2 id="目次">目次</h2>
+
+<ul>
+  <li><a href="#フランスのビザは受け取りまでの所要日数">フランスのビザは受け取りまでの所要日数</a></li>
+  <li><a href="">ビザ手続き進捗確認方法</a></li>
+</ul>
+
+<h2 id="フランスのビザは受け取りまでの所要日数">フランスのビザは受け取りまでの所要日数</h2>
+
+<p>冒頭で述べた通り、私はフランス大使館で申請をした<strong>5日後</strong>にレターパックで自宅に届きました。6~8月はフランスのセメスターに合わせて多くの方が渡仏するので、ビザ発給まで時間がかかる場合があると聞いていました。しかし私は、7/18に申請しましたが、5日後（営業日だけだと3日後）に届いたので、あまり関係はなさそうです。</p>
+
+<p>大使館の混み具合や、書類の不備等でで所要日数は変わるようですが、インターネットで調べた限り、最短4日〜最長1ヶ月で届きそうです。参考までの他の方々の所要日数を紹介します：</p>
+
+<h3 id="研究者ビザ受け取りまでにかかった日数">研究者ビザ受け取りまでにかかった日数</h3>
+<p>下記２名の方は研究者ビザ発給までの所要日数について書いています。</p>
+<ul>
+  <li>2週間　※2020年8月（<a href="https://blog.yuuki-wd.space/archives/38">フランスの研究者ビザ取得 – 大使館での申請 (2020年9月編) @Yuuki Wada Official Website</a>）</li>
+  <li>7日　※2017年（<a href="http://yuyamatsumoto.com/francevisa.html">フランスの研究者ビザについて @Yuya Matsumoto</a>）</li>
+</ul>
+
+<h3 id="学生ビザの場合">学生ビザの場合</h3>
+<p>下記の方は学生ビザ発給までの所要日数について書いています。</p>
+<ul>
+  <li>4日　※2021年？（<a href="https://note.com/phantomuwave/n/ne98838ccc8f4">フランス渡航準備編:学生ビザ取得までの道のり（面接当日編）@なつさんのnote</a>）</li>
+  <li>3週間　※2022年（<a href="https://www.meiji.ac.jp/cip/report/6t5h7p00000gfpn5-att/66_Middle_2022_FR_CatholiqueLille_LILLECampus.pdf">@2022年度 留学近況報告書 (1)</a>）</li>
+</ul>
+
+<h3 id="ワーホリビザの場合">ワーホリビザの場合</h3>
+<ul>
+  <li>3日　※2023年？<a href="https://ajed-deja.com/?p=758">フランス ワーキングホリデービザ取得記 【申請当日】@Deja?</a></li>
+  <li>1週間 ※2015年<a href="https://www.yukimidiet.com/entry/2018/12/16/224546#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%9B%E3%83%AA%E3%83%87%E3%83%BCVISA%E9%80%9A%E3%82%89%E3%81%AA%E3%81%84">フランスのワーホリVISAを拒否された話 @世界中でゆきみダイエット</a></li>
+</ul>
+
+<h2 id="研究者ビザ発給進捗確認方法">研究者ビザ発給進捗確認方法</h2>
+
+<p>ビザ申請時に作成した<a href="https://connect.france-visas.gouv.fr/realms/usager/protocol/openid-connect/auth?response_type=code&amp;client_id=fv-fo-keycloak-web&amp;scope=openid&amp;state=e11bef0b-5ae9-457f-a783-edccbb7388b0&amp;redirect_uri=http://application-form.france-visas.gouv.fr/fv-fo-dde/login/oauth2/code/keycloak&amp;nonce=cZB_PJj9u3aFch4TaOhb2P5nb77YeyW4IFlpKz8e7f0">France-Visas</a>のサイトから確認できます。</p>
+
+<p>まずはログインします。
+<img src="../../assets/images/articles/240720-01.jpg" alt="ログイン画面" /></p>
+
+<p>下記の緑色文字部分が手続きの進捗です。フランス語で「パスポートの準備ができました」と表示されています。</p>
+<blockquote>
+  <p>Votre passeport est prêt à être récupéré</p>
+</blockquote>
+
+<p><img src="../../assets/images/articles/240720-02.jpg" alt="確認画面" />&lt;/a&gt;</p>
+
+<p>ビザ発給手続き中の場合は、フランス語で「手続き中」と表示されていました。</p>
+
+<h2 id="最後に">最後に</h2>
+
+<p>フランスのビザ発給までの所要期間についてまとめました。間違っている部分や追記あれば、遠慮なく<a href="https://forms.gle/QNzFbuAdrYB565GS8">こちら</a>から教えてください。</p>
+
+<h2 id="関連記事">関連記事</h2>
+
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/blog/posts/france_visa_documents/" target="blank">
+<p class="link-title">【必要書類】フランス研究者ビザ申請2024</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/france_visa_documents/</p>
+</a>
+</div>
+</div>
+
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/blog/posts/france_visa_todo" target="blank">
+<p class="link-title">【フランス研究者ビザ申請の流れ】研究室内定からビザ取得まで</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/france_visa_todo</p>
+</a>
+</div>
+</div>
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4810310425717787" crossorigin="anonymous"></script>
+
+<p><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4810310425717787" data-ad-slot="6627749146"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>]]></content><author><name>Juri Yoneyama</name></author><category term="administration" /><summary type="html"><![CDATA[フランスで博士課程やポスドクを行うために必要な研究者ビザ（Passeport talent)は、フランス大使館で必要書類を提出した後、3日（土日除く）で届きました。]]></summary></entry><entry><title type="html">【必要書類】フランス研究者ビザ申請2024</title><link href="http://localhost:4000/blog/posts/france_visa_documents/" rel="alternate" type="text/html" title="【必要書類】フランス研究者ビザ申請2024" /><published>2024-08-03T00:00:00+02:00</published><updated>2024-08-03T00:00:00+02:00</updated><id>http://localhost:4000/blog/posts/france_visa_documents</id><content type="html" xml:base="http://localhost:4000/blog/posts/france_visa_documents/"><![CDATA[<p>フランスでPhDに進む場合に必要な、研究者ビザ申請時に必要な書類について紹介します。
+研究者ビザ申請の全体的な流れが知りたい場合は：</p>
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/blog/posts/france_visa_todo" target="blank">
+<p class="link-title">フランスの博士課程】研究者ビザ申請までの流れ（2024年）</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/france_visa_todo/</p>
+</a>
+</div>
+</div>
+
+<h2 id="目次">目次</h2>
+
+<ul>
+  <li><a href="#必要書類一覧">必要書類一覧</a></li>
+  <li><a href="#必要書類はどこに記載されているのか">必要書類はどこに記載されているのか</a>
+    <ul>
+      <li><a href="#申請書を書き終えた後の画面">申請書を書き終えた後の画面</a></li>
+      <li><a href="#完成した申請書pdfの最終ページ">完成した申請書pdfの最終ページ</a></li>
+      <li><a href="#france-visasgouvfrの在日本フランス大使館のページ">france-visas.gouv.frの在日本フランス大使館のページ</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="必要書類一覧">必要書類一覧</h2>
+<p>研究者ビザ(Passeport talent - Chercheur)の申請時に必要な書類は下記です：</p>
+
+<ul>
+  <li>パスポート …(A)<br /></li>
+  <li>パスポートのコピー（顔写真があるページ）…(B)<br /></li>
+  <li>申請書（印刷し、証明写真を貼って、サインをする）…(C)<br /></li>
+  <li>証明写真（申請書に貼る）…(D)<br /></li>
+  <li>修士の修了証明書（英語）…(E)<br /></li>
+  <li>Convention d’accueil…(F)<br /></li>
+  <li>ビザ申請料 …(G)<span class="small">※2024/7時点では16,780円 ※<span class="keiko_yellow">お釣りが出ないように！</span></span><br /></li>
+  <li>申請書チェックリスト（ダウンロードした申請書の最終ページにある）…(H)<br /></li>
+  <li>大使館予約確認書 …(I)<br /></li>
+  <li>レターパック（赤）…(J)<br /></li>
+</ul>
+
+<h3 id="aパスポート-bパスポートのコピー">(A)パスポート, (B)パスポートのコピー</h3>
+<p>パスポートは博士の契約期間まで残存期間があることを確認してください。パスポートのコピーは、顔写真と名前などの情報が掲載されているページの見開きだけで大丈夫でした。（念の為全部コピーしましたが、不要でした。）</p>
+
+<h3 id="c申請書">(C)申請書</h3>
+<p><a href="https://france-visas.gouv.fr/en/online-application">france-visas.gouv.frのApplication Form</a>で作成が完了すると、PDFが出力されますので、ダウンロードして印刷します。PDFの構成は以下になっているかと思います：</p>
+
+<ul>
+  <li>申請書（３ページ）</li>
+  <li>謎の空白ページ（1ページ）</li>
+  <li>書類のチェックリスト（2ページ）</li>
+</ul>
+
+<p>印刷後、申請書1ページ目の証明写真貼り付け箇所に、証明写真を貼り付けます。また、申請書の3ページ目最後にサインをします（下記画像赤マーカ部分）。Lieu et dateには”Tokyo, 日付”を記載し、 Signatureには、パスポート記載のサインと同じサインをします。
+<img src="../../assets/images/articles/240719-01.jpeg" alt="申請書のイメージ" />&lt;/a&gt;</p>
+
+<h3 id="d証明写真">(D)証明写真</h3>
+<ul>
+  <li>証明写真のサイズ：パスポート同じ（35 x 45）</li>
+  <li>証明写真撮影時の注意点：<a href="https://www.diplomatie.gouv.fr/IMG/pdf/sample_photos_france.pdf">Schengen visa photograph instructions</a>をご覧ください。</li>
+</ul>
+
+<p>そして…証明写真は、申請書に貼ることを忘れないでください！</p>
+
+<h3 id="e修士の修了証明書英語">(E)修士の修了証明書（英語）</h3>
+
+<p>ご自身の出身校にて、英語の修了証明書を発行してもらってください。</p>
+
+<h3 id="fconvention-daccueil">(F)Convention d’accueil…</h3>
+
+<p>Convention d’accuei（研究機関または大学による受け入れ協定書）の入手方法：</p>
+
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/blog/posts/france_visa_todo" target="blank">
+<p class="link-title">フランスの博士課程】研究者ビザ申請までの流れ（2024年）</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/france_visa_todo/#convention-daccueil受け入れ協定書の発行を先方に依頼</p>
+</a>
+</div>
+</div>
+
+<p>ちなみに、Convention d’accueilはビザ申請手続き完了後、郵送にてビザつきパスポートともに返却されます。</p>
+
+<h3 id="gビザ申請費用16780円2024年">(G)ビザ申請費用（16,780円　※2024年）</h3>
+<p>ビザ申請費用は99ユーロなのですが、円払いです。為替によって変わりますので、実際の金額はご自身のビザ申請書類の最後のページを確認して下さい（下記画像下部参照）。
+<img src="../../assets/images/articles/240718-08.jpg" alt="ビザ申請費用が書かれている画面" />&lt;/a&gt;</p>
+
+<p>円安の影響を受け、2024年7月に申請した私は16,780円でした（涙）2020年に申請したT.Hさんは12,453円だったようです…（参考：<a href="https://note.com/ifsttar_research/n/nc638e5d3dcf5">【フランス生活】研究者ビザ取得から現地役所手続きの全て(2020年)</a>）</p>
+
+<h3 id="h申請書類チェックリスト">(H)申請書類チェックリスト</h3>
+<p><a href="#c申請書">申請書</a>で記載した内容と同じですが、<a href="https://france-visas.gouv.fr/en/online-application">france-visas.gouv.frのApplication Form</a>で申請書の作成が終わるとPDFが出力されます。そのPDFの最後2ページが申請書類チェックリストになっています。(下記画像参照)</p>
+
+<p><img src="../../assets/images/articles/240718-07.jpg" alt="申請書チェックリスト１ページ目" /><img src="../../assets/images/articles/240718-08.jpg" alt="申請書チェックリスト２ページ目" /></p>
+
+<h3 id="i大使館の予約確認書">(I)大使館の予約確認書</h3>
+<p><a href="https://consulat.gouv.fr/en/ambassade-de-france-a-tokyo/appointment?name=Visa">Appointment booking service with the French consular services （
+Ambassade de France au Japon）</a>で大使館の予約を済ませると、予約確認書がメールで送られてきます（下記画像参照）。こちらを印刷して、大使館に持参する必要があります。
+<img src="../../assets/images/articles/240718-04.jpg" alt="予約確認書" /></p>
+
+<p>フランス大使館予約の方法が知りたい方は<a href="../../posts/france_visa_flow/#フランス大使館予約システムの使い方">フランス大使館予約システムの使い方</a>をご覧ください。</p>
+
+<h2 id="必要書類はどこに記載されているのか">必要書類はどこに記載されているのか。</h2>
+<p>下記3ページを確認すれば、必要な書類が全て掲載されています：</p>
+
+<ul>
+  <li>申請書を書き終えた後の画面</li>
+  <li>完成した申請書（PDF）の最終ページ</li>
+  <li>france-visas.gouv.frの在日本フランス大使館のページ</li>
+</ul>
+
+<p>全部まとめて記載してくれておらず、さまざまなページに散らばっているのが不親切ですよね…</p>
+
+<h3 id="申請書を書き終えた後の画面">申請書を書き終えた後の画面</h3>
+<ul>
+  <li>下記画像の赤マーカー（上部）：(A)パスポート, (B)パスポートのコピーが必要であることが記載されています。</li>
+  <li>下記画像の赤マーカー（下部）：(D)証明写真, (A)パスポート, (E)修士の修了証明書（英語）, (F) Convention d’accueilが必要であることが記載されています。
+    <blockquote>
+      <p><img src="../../assets/images/articles/240718-09.jpg" alt="申請書最後の画面" />&lt;/a&gt;</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="完成した申請書pdfの最終ページ">完成した申請書（PDF）の最終ページ</h3>
+<p>赤マーカー部分のチェックリスト上から：</p>
+<ol>
+  <li>(C) 印刷し、サイン（場所・日付・名前）をした申請書</li>
+  <li>(I) フランス大使館予約確認書</li>
+  <li>(D) 証明写真</li>
+  <li>公用旅券である場合は口頭で伝えること <span class="small">※ほとんどの人が当てはまらないと思うので、無視で大丈夫です。</span></li>
+  <li>日本国籍でない場合、日本の在留カード</li>
+  <li>(A) パスポート</li>
+</ol>
+
+<p><img src="../../assets/images/articles/240718-07.jpg" alt="完成した申請書（PDF）のページ" /></p>
+
+<p>赤マーカー部分のチェックリスト上から：</p>
+<ol>
+  <li>(F) Convention d’accueil</li>
+  <li>(E)修士の修了証明書（英語）</li>
+  <li>(G) 16,780円</li>
+</ol>
+
+<p><img src="../../assets/images/articles/240718-08.jpg" alt="完成した申請書（PDF）の最終ページ" /></p>
+
+<h3 id="france-visasgouvfrの在日本フランス大使館のページ">france-visas.gouv.frの在日本フランス大使館のページ</h3>
+<p>レターパックは非常にわかりにくいのですが、ビザ申請サイトの在日本フランス大使館のページに小さく記載があります：
+<img src="../../assets/images/articles/240718-06.jpg" alt="france-visas.gouv.frの在日本フランス大使館のページ" /></p>
+
+<h2 id="最後に">最後に</h2>
+<p>ざっと書いたので分かりにくいかもしれません。忘れないうちに残しておきたかったので、ゆっくり見直していきます…
+間違っているところ・質問があれば、遠慮なく<a href="https://forms.gle/QNzFbuAdrYB565GS8">こちら</a>から教えてください。</p>
+
+<h2 id="関連記事">関連記事</h2>
+
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/blog/posts/france_visa_todo" target="blank">
+<p class="link-title">【フランス研究者ビザ申請の流れ】研究室内定からビザ取得まで</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/france_visa_todo</p>
+</a>
+</div>
+</div>
+
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/posts/france_visa_duration/" target="blank">
+<p class="link-title">何日かかる？ - 5日で届いたフランス研究者ビザ</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/france_visa_duration/</p>
+</a>
+</div>
+</div>
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4810310425717787" crossorigin="anonymous"></script>
+
+<p><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4810310425717787" data-ad-slot="6627749146"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>]]></content><author><name>Juri Yoneyama</name></author><category term="administration" /><summary type="html"><![CDATA[フランスでPhDに進む場合に必要な研究者ビザ(Passeport talent - Chercheur)の申請で必要な書類について紹介しています。]]></summary></entry><entry><title type="html">【フランス研究者ビザ申請の流れ】研究室内定からビザ取得まで</title><link href="http://localhost:4000/blog/posts/france_visa_todo/" rel="alternate" type="text/html" title="【フランス研究者ビザ申請の流れ】研究室内定からビザ取得まで" /><published>2024-08-02T00:00:00+02:00</published><updated>2024-08-02T00:00:00+02:00</updated><id>http://localhost:4000/blog/posts/france_visa_todo</id><content type="html" xml:base="http://localhost:4000/blog/posts/france_visa_todo/"><![CDATA[<p>フランスでの博士課程が決まったので、内定からビザ申請までの大まかな流れをまとめました。
+特に、公的研究機関で博士課程を行う場合、内定後に機関の防衛保安担当またはフランス内務省によるセキュリティチェックがあります。こちらに関する日本語の情報がほとんどないので、参考になれば幸いです。</p>
+
+<div class="box_cus">
+<div class="cus_title">
+  <span>本記事について</span>
+</div>
+  <div class="cus_inner">
+<ul>
+<li> 2024年7月時点の情報</li>
+<li> 博士課程（コンピュータサイエンス）</li>
+<li> 研究者ビザ（Passport talant / Chercheur）での申請の流れ</li>
+<li> 後日同行する家族ビザの申請の流れ</li>
+</ul>
+  </div> 
+</div>
+
+<h2 id="目次">目次</h2>
+
+<ul>
+  <li><a href="#参考したサイト">非常に参考にしたサイト</a></li>
+  <li><a href="#ビザ申請までの流れ">ビザ申請までの流れ</a>
+    <ul>
+      <li><a href="#convention-daccueil受け入れ協定書の発行を先方に依頼">1. Convention d’accueil（受け入れ協定書）の発行を先方に依頼</a></li>
+      <li><a href="#セキュリティチェックの質問対応">2. セキュリティチェックに関する質問対応</a></li>
+      <li><a href="#フランス大使館の予約">3. フランス大使館を予約</a></li>
+      <li><a href="#申請書作成">4. 申請書の作成・印刷</a></li>
+      <li><a href="#必要書類の収集">5. 必要書類の収集</a></li>
+      <li><a href="#フランス大使館">6. フランス大使館を訪問</a></li>
+    </ul>
+  </li>
+  <li><a href="#個人的感想">個人的感想</a></li>
+</ul>
+
+<h2 id="参考にしたサイト">参考にしたサイト</h2>
+
+<p>はじめに、自分のビザ申請にあたり、非常に！参考になったサイトをご紹介します：</p>
+
+<p>下記noteは、フランスでの手続きについても記載してくれています：</p>
+<div class="link-card">
+<div class="link-img">
+<img src="https://assets.st-note.com/production/uploads/images/45497117/rectangle_large_type_2_2e78a020fa5a19f26ccc6008da4b35d5.jpg?width=1200" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="https://note.com/ifsttar_research/n/nc638e5d3dcf5" target="blank">
+<p class="link-title">【フランス生活】研究者ビザ取得から現地役所手続きの全て(2020年)</p>
+<p class="link-site">T.Hさんのnote</p>
+<p class="link-url">https://note.com/ifsttar_research/n/nc638e5d3dcf5</p>
+</a>
+</div>
+</div>
+
+<p>下記2名の方のnoteは、家族の同行ビザも申請したい方におすすめです。もちろん家族を同行させない場合でも参考になります。</p>
+
+<div class="link-card">
+<div class="link-img">
+<img src="https://assets.st-note.com/production/uploads/images/113470770/rectangle_large_type_2_946e07c33763bc019b35239bf4bfb1fc.png?width=1200" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="https://note.com/olly210/n/n631459b8d489" target="blank">
+<p class="link-title">【フランスの研究者ビザを大使館で申請する(2023年)</p>
+<p class="link-site">Ollyさんのnote</p>
+<p class="link-url">https://note.com/olly210/n/n631459b8d489</p>
+</a>
+</div>
+</div>
+
+<div class="link-card">
+<div class="link-img">
+<img src="https://assets.st-note.com/production/uploads/images/95872134/rectangle_large_type_2_6a5139060f691b9205fdeb52c3b91d32.jpg?width=1200" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="https://note.com/mola2019/n/n52ef4ef69bea" target="blank">
+<p class="link-title">No.18大学教員の海外赴任:駐在妻のビザ申請に必要な書類(2023年)</p>
+<p class="link-site">mola2019さんのnote</p>
+<p class="link-url">https://note.com/mola2019/n/n52ef4ef69bea</p>
+</a>
+</div>
+</div>
+
+<h2 id="ビザ申請までの流れ">ビザ申請までの流れ</h2>
+
+<p>ビザ申請の流れは下記です。</p>
+
+<ol>
+  <li><a href="#convention-daccueil受け入れ協定書の発行を先方に依頼">Convention d’accueil（受け入れ協定書）の発行を先方に依頼</a></li>
+  <li><a href="#セキュリティチェックの質問対応">セキュリティチェックに関する質問対応</a></li>
+  <li><a href="#フランス大使館の予約">フランス大使館を予約</a></li>
+  <li><a href="#申請書の作成オンライン">申請書の作成</a></li>
+  <li><a href="#必要書類の収集">必要書類の収集</a></li>
+  <li><a href="#フランス大使館へ">フランス大使館を訪問</a></li>
+</ol>
+
+<h2 id="convention-daccueil受け入れ協定書の発行を先方に依頼">Convention d’accueil（受け入れ協定書）の発行を先方に依頼</h2>
+
+<p>Convention d’accueil（コンベンションダキュー）は大学や研究期間による受け入れ協定書です。この書類の原本（i.e. サイン入りの紙の書類）がないと、ビザ申請はできません。</p>
+
+<h3 id="convention-daccueil発行に必要な書類">Convention d’accueil発行に必要な書類</h3>
+<p>おそらく、受け入れ期間先から案内があると思いますが、Convention d’accueil発行に必要な書類は以下です：</p>
+
+<ul>
+  <li>パスポートのコピー …(A)</li>
+  <li>出生証明書書（戸籍謄本）…(B)</li>
+  <li>出生証明書（戸籍謄本）の英訳 …(C)</li>
+  <li>修士の修了証明書（英語）…(D)</li>
+</ul>
+
+<h4 id="a-パスポート">(A) パスポート</h4>
+<p>白紙が終わる年まで有効期限が残っているかどうかを確認してください。</p>
+
+<h4 id="b-戸籍謄本">(B) 戸籍謄本</h4>
+<p>市役所でも発行できますし、マイナンバーカードがあればコンビニでも発行できます。</p>
+
+<h4 id="c-戸籍謄本の英訳">(C) 戸籍謄本の英訳</h4>
+<p>自分で英訳したもので構いません。私はYuya Matsumotoさんが翻訳・配布してくださっているTeXテンプレートを使用しました.</p>
+
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="http://yuyamatsumoto.com/francevisa.html" target="blank">
+<p class="link-title">フランスの研究者ビザについて</p>
+<p class="link-site">Yuya Matsumoto</p>
+<p class="link-url">http://yuyamatsumoto.com/francevisa.html</p>
+</a>
+</div>
+</div>
+
+<h4 id="d--修士の修了証明書英語">(D)  修士の修了証明書（英語）</h4>
+<p>大学で英語の修了証明書の発行を依頼してください。</p>
+
+<h3 id="受け入れ期間先から案内がない場合">受け入れ期間先から案内がない場合</h3>
+
+<p>先方から、Convention d’accueilを発行手続きについて案内があれば、そのまま進めていけば良いです。私の場合は内定が、12月のクリスマス前に出て、2ヶ月たっても担当者から何も連絡がなかったので、こちらから勝手に必要そうな情報をメールで送付しました。</p>
+
+<blockquote>
+  <p>Bonjour, Convention d’accueil発行してくださいませ。パスポートのコピー、出生証明書、修了証明書はメールに添付しました。」</p>
+</blockquote>
+
+<p>とメールしましたが、返信が返ってきたのは5月でした。2週間に1回丁寧な催促メールもしましたが、2ヶ月返信無しでした。これはフランスでは普通のようなので、「迷惑かな？」と思わずに、返事が来るまで送り続けた方が良いらしいです。フランス人の同僚に教えてもらいました。</p>
+
+<p>そして2ヶ月の時を経て、研究室の秘書さんよりいただいたメールは下記でした：</p>
+
+<blockquote>
+  <p>Sorry, 返事が遅くなった理由は下記です。実は内定が出ていても、研究所や国のセキュリティチェックを通過しないと博士として採用できません。セキュリティチェックが通過しそうな見込みが出てきたのでConvention d’accueilの発行手続きを進めたいと思います。</p>
+</blockquote>
+
+<p>….セキュリティチェック！？次の章で説明します。</p>
+
+<h2 id="セキュリティチェックの質問対応">セキュリティチェックの質問対応</h2>
+
+<p>フランス人以外（もしかしたら非EU国民）は、<strong>フランスの公的研究機関で博士課程に進む場合、研究機関の防衛保安担当または、フランス内務省のセキュリティチェックを受けなければなりません</strong>。セキュリティチェックを通過できなかった場合は、たとえ内定があっても博士課程には進めないそうです。</p>
+
+<p>ただセキュリティチェックとは言っても、こちらがすることは特にありません。<strong>先方から質問がくることがあるので、それに対応するのみ</strong>です。よっぽどのことがない限り、チェックは通過できるようです。（例：犯罪歴、テロ関与、政治的に問題がある国出身等）</p>
+
+<p>セキュリティチェックの過程で、私が受けた質問や、研究室の先輩が受けた質問は下記で紹介しています。</p>
+
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/blog/posts/france_phd_security/" target="blank">
+<p class="link-title">【フランス】博士課程入学のためのセキュリティチェック</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/france_phd_security/</p>
+</a>
+</div>
+</div>
+
+<h2 id="フランス大使館の予約">フランス大使館の予約</h2>
+
+<p>Convention d’accueilがいつ届くかはわかりませんが、フランス大使館の予約は先に取っておきましょう。いつでもキャンセルできるので、問題ありません。</p>
+
+<p>予約は、専用サイト（<a href="https://consulat.gouv.fr/en/ambassade-de-france-a-tokyo/appointment?name=Visa">Appointment booking service with the French consular services （Ambassade de France au Japon）</a>）から行います。シンプルなサイトなのですぐに要領はわかると思いますが、念の為予約方法も記事にしました：</p>
+
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/blog/posts/france_visa_reservation/" target="blank">
+<p class="link-title">フランス大使館予約システムの使い方（ビザ申請</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/france_visa_reservation/</p>
+</a>
+</div>
+</div>
+
+<p><span class="marker">7〜8月は予約が取りにくいのでご注意ください。</span></p>
+
+<div class="box_cus">
+<div class="cus_title">
+  <span>フランス大使館情報</span>
+</div>
+  <div class="cus_inner">
+<ul>
+<li>ビザ受付時間：09:00 - 11:30</li>
+<li>住所：東京都港区南麻布４丁目１１−４４（広尾駅から徒歩10分）</li>
+</ul>
+  </div> 
+</div>
+<p>※念の為最新情報をフランス大使館のサイトからご確認ください：<a href="https://france-visas.gouv.fr/en/japan#:~:text=Les%20ressortissants%20japonais%20titulaires%20d,une%20p%C3%A9riode%20de%206%20mois.">The Visa section of the Embassy of France in Tokyo</a></p>
+
+<h2 id="申請書の作成オンライン">申請書の作成（オンライン）</h2>
+
+<p><a href="https://france-visas.gouv.fr/en/online-application">france-visas.gouv.frのApplication Form</a>で作成し、申請します。フォームを埋めていくだけなので簡単ですが、わかりづらいところもあるので、別途記事にする予定です。</p>
+
+<p>上記で作成した申請書は印刷して、大使館に持っていく必要があります。オンライン申請だけでは完了しませんのでご注意ください。</p>
+
+<h2 id="必要書類の収集">必要書類の収集</h2>
+
+<p>必要書類は下記10種類です。</p>
+
+<ul>
+  <li>パスポート …(A)<br /></li>
+  <li>パスポートのコピー（顔写真があるページ）…(B)<br /></li>
+  <li>申請書（印刷し、証明写真を貼って、サインをする）…(C)<br /></li>
+  <li>証明写真（申請書に貼る）…(D)<br /></li>
+  <li>修士の修了証明書（英語）…(E)<br /></li>
+  <li>Convention d’accueil…(F)<br /></li>
+  <li>16,780円 …(G)<span class="small">※2024現在の申請料 ※<span class="keiko_yellow">お釣りが出ないように！</span></span><br /></li>
+  <li>申請書チェックリスト（ダウンロードした申請書の最終ページにある）…(H)<br /></li>
+  <li>大使館予約確認書 …(I)<br /></li>
+  <li>レターパック（赤）…(J)<br /></li>
+</ul>
+
+<p>各書類の詳細は, 下記で詳しく書きました.</p>
+
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/blog/posts/france_visa_documents/" target="blank">
+<p class="link-title">【必要書類】フランス研究者ビザ申請2024</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/france_visa_documents/</p>
+</a>
+</div>
+</div>
+
+<h2 id="フランス大使館へ">フランス大使館へ</h2>
+
+<p>書類が完成したら、いざフランス大使館へ行きましょう。１つでも書類が足りなかったら受理されませんのでご注意ください。また、予約表の名前とパスポートの名前が一致していなかったら入館できませんのでご注意ください。</p>
+
+<div class="box_cus">
+<div class="cus_title">
+  <span>大使館到着から申請完了までの流れ</span>
+</div>
+  <div class="cus_inner">
+<ol>
+<li>入り口で警備員に予約書とパスポートを見せる</li>
+<li>荷物検査</li>
+<li>貴金属探知機での身体検査</li>
+<li>大使館に入場</li>
+<li>名前が呼ばれるまで、ロビー（？）で待つ</li>
+<li>名前が呼ばれたら、1番窓口で書類を提出</li>
+<li>ロビーで再び待つ</li>
+<li>名前が呼ばれたら、2番窓口で指紋登録・顔写真撮影</li>
+</ol>
+  </div> 
+</div>
+
+<p>以上で手続きは終わりです。私は11:30が予約時間、11:20に入館、11:38には手続きが終わり大使館を出ていました。フランス大使館の口コミが軒並み悪いので、ドキドキしながら行きましたが、対応してくれた方は全員優しく、手続きはあっさり終わりました。</p>
+
+<h3 id="5日後にビザが郵送で届いた">5日後にビザが郵送で届いた！</h3>
+
+<p>なんと…7月18日（木）に大使館で手続きを済ませ、7月23日（火）にはビザ付きパスポートが家に配達されました！早すぎる！土日の休業日を除けば、3日しかかかっていません…！ビザと共に、Convention d’accueilも返却されました。</p>
+
+<h2 id="個人的感想">個人的感想</h2>
+
+<p>フランス大使館は口コミが非常に悪いので…何度も何度も家で、書類の不備をチェックし、相手がスムーズに仕事をできるように心がけました。他の方のnoteにも書いていますが、こちら側がしっかり注意事項を読み、書類を完璧に揃えさえすれば、大丈夫です。</p>
+
+<h2 id="関連記事">関連記事</h2>
+
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/blog/posts/france_visa_documents/" target="blank">
+<p class="link-title">【必要書類】フランス研究者ビザ申請2024</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/france_visa_documents/</p>
+</a>
+</div>
+</div>
+
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/blog/posts/france_visa_duration/" target="blank">
+<p class="link-title">何日かかる？ - 5日で届いたフランス研究者ビザ</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/france_visa_duration/</p>
+</a>
+</div>
+</div>
+
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4810310425717787" crossorigin="anonymous"></script>
+
+<p><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4810310425717787" data-ad-slot="6627749146"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>]]></content><author><name>Juri Yoneyama</name></author><category term="administration" /><summary type="html"><![CDATA[フランスでのPhDポジション内定からビザ申請までの流れをまとめました。Passeport talent chercheurと呼ばれる研究者用のビザの申請方法です。]]></summary></entry><entry><title type="html">ヨーロッパで博士課程に進むためには</title><link href="http://localhost:4000/blog/posts/phdschedule/" rel="alternate" type="text/html" title="ヨーロッパで博士課程に進むためには" /><published>2024-08-01T00:00:00+02:00</published><updated>2024-08-01T00:00:00+02:00</updated><id>http://localhost:4000/blog/posts/phdschedule</id><content type="html" xml:base="http://localhost:4000/blog/posts/phdschedule/"><![CDATA[<p>海外で博士課程に進むためのスケジュール, やるべき事について書きました. 実績なく, 優秀でもない私でもフランスでのPhDポジションを獲得できたので, 参考になると幸いです.</p>
+
+<h2 id="目次">目次</h2>
+<ul>
+  <li><a href="#はじめに">はじめに</a></li>
+  <li><a href="#スケジュール">スケジュール</a></li>
+  <li><a href="#出願時点m2-9月の実績">出願時点（M2 9月）の実績</a></li>
+  <li><a href="#研究室探し出願">研究室探し・出願</a>
+    <ul>
+      <li><a href="#直接教授にコンタクト">直接教授にコンタクト</a></li>
+      <li><a href="#公募サイトをチェック">公募サイトをチェック</a></li>
+      <li><a href="#snsをチェック">SNSをチェック</a></li>
+    </ul>
+  </li>
+  <li><a href="#必要書類出願書類">必要書類（出願書類）</a></li>
+  <li><a href="#英語スコアielts取得">英語スコア（IELTS）取得</a></li>
+</ul>
+
+<h2 id="はじめに">はじめに</h2>
+<p>私は比較的遅めに始めました. 修士から専攻を変えて研究を始めたため, 実績がなく, 早めに出願したくても, CVや志望動機に書くことがありませんでした. 
+なので, 8月に国際会議で発表し, 9月に別の国際会議に論文を提出した後（リジェクトされましたが）から, PhD出願を本格的に始めました. <br /></p>
+
+<p>「早く始めないと…！と焦る気持ちはあると思いますが, 私のアドバイスは「研究の工程を全部経験してから出願を始めた方が良い」です. つまり, 文献レビュー・仮説設定・開発・実験・分析/評価・論文執筆（Short paperでも可）を経験してから, PhD探しをすると, CVや志望動機がかきやすくなります.</p>
+
+<h2 id="スケジュール">スケジュール</h2>
+<ul>
+  <li>M2 9月 ：
+    <ul>
+      <li>研究室探し開始</li>
+      <li>CV, 志望動機のフォーマット作成</li>
+      <li>英語スコア（IELTS）取得</li>
+    </ul>
+  </li>
+  <li>M2 10月：
+    <ul>
+      <li>教授直接コンタクト</li>
+      <li>PhD公募サイトから応募開始</li>
+    </ul>
+  </li>
+  <li>M2 11月： 面接, 内定</li>
+</ul>
+
+<h2 id="出願時点m2-9月の実績">出願時点（M2 9月）の実績</h2>
+<ul>
+  <li>小さめの国際会議発表：1本</li>
+  <li>大きめの国際会議査読待ち：1本（結局リジェクト）</li>
+  <li>海外で研究インターン（2ヶ月）</li>
+</ul>
+
+<h2 id="研究室探し出願">研究室探し・出願</h2>
+<p>私が試した研究室探しの方法は, 下記2つです.</p>
+<ol>
+  <li>直接教授にコンタクト</li>
+  <li>公募サイトをチェック</li>
+  <li>Telegramグループをチェック</li>
+</ol>
+
+<h3 id="直接教授にコンタクト">直接教授にコンタクト</h3>
+<p>教授に直接コンタクトする場合, 方法が3通りあります. 
+返信率が低い順に, (1) 興味のある論文の著者（教授）, (2) 知り合いに紹介してもらった教授, (3) 研究室間でつながりのある教授, です. 
+当たり前ですが, (1)は見ず知らずの学生からメールが来るわけですから, 返信率は良くありません. 参考に私のコンタクト結果を下記に示します.</p>
+
+<ol>
+  <li>興味のある論文の著者（教授）
+  4件中（オランダ, ドイツ, イスラエル x 2）, 2件返信が来ました.</li>
+  <li>知り合いに紹介してもらった教授
+  5件中（フランス x 3, イギリス x 2）, 4件返信が来ました.</li>
+  <li>研究室間でつながりのある教授
+  3件中（ニュージーランド, フランス, イギリス）, 3件返信が来ました.</li>
+</ol>
+
+<div class="box_cus">
+<div class="cus_title">
+  <span>メリットとデメリット</span>
+</div>
+  <div class="cus_inner">
+   <ul>
+   <li><strong>メリット</strong>
+    <ul>
+    <li>まだ公にしていないPhDのポジションを教えてくれたり, 給料付のポジションは募集していないが, 奨学金など準備できるなら採用するといった情報を得られる</li>
+    <li>Research interestsが完全にマッチした場合, 即採用に繋がりやすい</li></ul>
+  </li>
+  <li><strong>デメリット</strong>
+    <ul>
+    <li>興味のある研究をしている教授探しに時間がかかる</li>
+    <li>メール文面の作成（先方の関連研究を読み, 自分の興味と絡める）に時間がかかる</li>
+    <li>返事が来なかったとき, 病む（笑）</li>
+    </ul>
+  </li>
+  </ul>
+  </div> 
+</div>
+
+<p>直接コンタクト時のメールの書き方は下記で紹介しています.</p>
+<div class="link-card">
+<div class="link-img">
+<img src="/blog/assets/images/pattern.png" alt="OGP画像" data-no-lightbox="" /></div>
+<div class="link-text">
+<a href="/blog/posts/phd_mail/" target="blank">
+<p class="link-title">【研究室探し】海外の教授へのメールの書き方</p>
+<p class="link-site">フランスPhDメモ</p>
+<p class="link-url">/blog/posts/phd_mail/</p>
+</a>
+</div>
+</div>
+
+<h3 id="公募サイトをチェック">公募サイトをチェック</h3>
+<p>公募サイトから応募するという方法もあります. 私は下記のウェブサイトを毎日チェックして, 自分のResearch interestsに合うポジションがないかを探していました.</p>
+<ul>
+  <li><a href="https://www.findaphd.com/phds/">Find A PhD</a></li>
+  <li><a href="https://scholarshipdb.net/virtual-reality-scholarships/Program-PhD">scholarshipdb.net</a></li>
+  <li><a href="https://academicpositions.com/jobs/position/phd?sort=closing&amp;page=23">Academic Positions</a></li>
+  <li><a href="https://www.academictransfer.com/en/">Academic Transfers</a></li>
+  <li><a href="https://vacancyedu.com/fully-funded-phd-positions/">VacancyEdu.com</a></li>
+  <li><a href="https://fellowshipbard.com/phd-positions/">Fellowshipbard</a></li>
+  <li><a href="https://www.owlindex.com/">Owlindex</a></li>
+</ul>
+
+<div class="box_cus">
+<div class="cus_title">
+  <span>メリットとデメリット</span>
+</div>
+  <div class="cus_inner">
+   <ul>
+   <li><strong>メリット</strong>
+    <ul>
+    <li>出願が簡単（CV, Cover Letter, 成績表だけで応募できるポジションが多い）</li>
+    <li>さまざまな募集があることを知れて, 楽しい</li></ul>
+  </li>
+  <li><strong>デメリット</strong>
+    <ul>
+    <li>凄まじい競争率. 書類選考突破も困難</li>
+    <li>分野によっては募集がほとんどない</li>
+    </ul>
+  </li>
+  </ul>
+  </div> 
+</div>
+
+<p>私は, こちらの方法は成功しませんでした. しかしこちらの方法でポジションを獲得された方も知っているので, 可能性がないわけではありません.</p>
+
+<h3 id="snsをチェック">SNSをチェック</h3>
+<p>LinkedIn, Twitter, Telegramをチェックしていました. 
+LinkedIn, Twitterでは, #phdposition #phdopportunities #phdvacancies などのハッシュタグで検索していました.</p>
+
+<p>Telegramでは, PhDポジションを投稿してくれるチャンネル（グループ？）があるので, それに参加して投稿されるポジションを眺めていました…（Telegram登録済みの方は, 下記リンクより参加できます. ）</p>
+<ul>
+  <li><a href="https://telegram.me/s/positionclub">Telegramグループ（Position club）</a></li>
+  <li><a href="https://t.me/s/cspositions?q=%23phd">Telegramグループ（CS positions）</a>※コンピュータサイエンス限定</li>
+</ul>
+
+<h2 id="必要書類出願書類">必要書類（出願書類）</h2>
+<p>出願に必要な書類は, 大学や研究機関によって異なります. 大学の公式サイトや, 公募サイトに載っているので確認してください. 
+用意していて損がないのは下記です.</p>
+<ul>
+  <li>CV（履歴書）</li>
+  <li>Cover Letter（志望動機）</li>
+  <li>学部・修士の英文成績表</li>
+  <li>教授・上司の推薦状2通</li>
+</ul>
+
+<p>CVやCover Letterは, Overleafで配布されているテンプレートをダウンロードし, デザインを少しカスタマイズしました. 
+作成方法・内容は長くなるのでまた別の記事に…..</p>
+
+<h2 id="英語スコアielts取得">英語スコア（IELTS）取得</h2>
+<p>ヨーロッパ（イギリスを除く）では, 英語の点数の提出は必須ではない大学が多いです. また求められたとしても必須点数は高くありません. 私はIELTSを受験しました. 私の結果は以下です（高くありませんが…）：</p>
+
+<ul>
+  <li>Overall: 7.0</li>
+  <li>Reading: 8.5</li>
+  <li>Listening: 6.5</li>
+  <li>Writing: 6.0</li>
+  <li>Speaking: 6.0</li>
+</ul>
+
+<p>イギリスの大学に出願する可能性を考えると, この点数では不十分だったため, もう一度受験しないと, と思っていました. しかし, 結局イギリスの大学は出願しなかったのでIELTSを受験したのはこの一回で終わりました.</p>
+
+<p>対策方法については, 私も教えて欲しいです（笑）特にWritingとSpeakingの対策方法がわかりません. 
+Reading, Listeningは過去問を一通り解いて終わりました.</p>]]></content><author><name>Juri Yoneyama</name></author><category term="enrollment" /><summary type="html"><![CDATA[海外で博士課程に進むためのスケジュール、 ToDoを書きました。実績なく、優秀でもない私でもフランスでのPhDポジションを獲得できました。]]></summary></entry></feed>
