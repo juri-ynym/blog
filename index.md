@@ -1,5 +1,5 @@
 ---
 title: フランスPhDメモ
 layout: blog
-description: 実績も能力も無しの30歳。海外博士課程探しのこと、フランス博士課程（HCI・AR分野）のこと。
+description: Inria（フランス国立情報学自動制御研究所）での博士生活を残すためのブログ。
 ---
