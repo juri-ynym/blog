@@ -1,4 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2024-10-16T23:13:04+02:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">フランスPhDメモ</title><subtitle>実績も能力も無しの30歳。海外博士課程探しのこと、フランス博士課程（HCI・AR分野）のこと。</subtitle><author><name>Juri Yoneyama</name></author><entry><title type="html">【フランス】滞在許可証のオンライン申請方法</title><link href="http://localhost:4000/blog/posts/france_residence_permit/" rel="alternate" type="text/html" title="【フランス】滞在許可証のオンライン申請方法" /><published>2024-09-25T00:00:00+02:00</published><updated>2024-09-25T00:00:00+02:00</updated><id>http://localhost:4000/blog/posts/france_residence_permit</id><content type="html" xml:base="http://localhost:4000/blog/posts/france_residence_permit/"><![CDATA[<p>フランスに着いたら, まずは滞在許可証（titre de séjour）の申請が必須です. オンラインでできます! この記事では博士課程でフランスに来た人(Passport talent - chercheur)のオンライン申請の方法について書きます. ※研究者以外の長期ビザ(VLS-TS)でもほとんど同じなので, 参考になると思います.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2025-02-23T16:31:19+01:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">フランスPhDメモ</title><subtitle>Inria（フランス国立情報学自動制御研究所）での博士生活を残すためのブログ。</subtitle><author><name>Juri Yoneyama</name></author><entry><title type="html">【非居住者】海外からマイナンバーカードで確定申告できた</title><link href="http://localhost:4000/blog/posts/japan_tax_overseas/" rel="alternate" type="text/html" title="【非居住者】海外からマイナンバーカードで確定申告できた" /><published>2025-02-23T00:00:00+01:00</published><updated>2025-02-23T00:00:00+01:00</updated><id>http://localhost:4000/blog/posts/japan_tax_overseas</id><content type="html" xml:base="http://localhost:4000/blog/posts/japan_tax_overseas/"><![CDATA[<p>2025年2月、<span class="marker">フランスからe-tax（マイナンバーカード利用）で確定申告ができました！</span>非居住者の方が、マイナンバーカードを持てるようになったのは2024年。そのため情報が少なかったので、注意点などを、ここに書いておきます。<span class="marker">確定申告の方法は日本で行うときと全く同じなので、確定申告の詳しい方法を知りたい方は他のサイトを見てください。</span>（現在還付待ち。還付され次第更新します。）</p>
+
+<div class="box_cus">
+<div class="cus_title">
+  <span>私の状況</span>
+</div>
+  <div class="cus_inner">
+<ul>
+  <li>〜2024年3月: 所属先の大学院でアルバイト（源泉徴収未済）</li>
+  <li>2024年5月〜8月: フリーランスとして勤務（先方が源泉徴収）</li>
+  <li>2024年9月中旬: フランスへ渡航（研究者ビザのため非居住者に） </li>
+  <li>2024年10月〜: フランスの研究所で勤務開始（納税先はフランス） </li>
+   <li>2025年2月: 2024年度分の確定申告作成 </li>
+</ul>
+</div>
+</div>
+
+<h2 id="目次">目次</h2>
+
+<ul>
+  <li><a href="#私の状況2024年度分の日本での給料がある">私の状況（2024年度分の日本での給料がある）</a></li>
+  <li><a href="#非居住者でも海外からe-taxを利用できる">非居住者でも海外からe-taxを利用できた</a></li>
+  <li><a href="#注意点">注意点</a></li>
+  <li><a href="#還付はいつ">還付はいつ？</a></li>
+</ul>
+
+<h2 id="私の状況2024年度分の日本での給料がある">私の状況（2024年度分の日本での給料がある）</h2>
+
+<p>先ほど記載した通り、私には2024年に<span class="marker">受け取った給料、フリーランス時の経費、生命保険、国民保険・国民年金</span>がありました。
+それらの確定申告が必要でした。</p>
+<div class="box_cus">
+<div class="cus_title">
+  <span>私の状況</span>
+</div>
+  <div class="cus_inner">
+<ul>
+  <li>〜2024年3月: 所属先の大学院でアルバイト（源泉徴収未済）</li>
+  <li>2024年5月〜8月: フリーランスとして勤務（先方が源泉徴収）</li>
+  <li>2024年9月中旬: フランスへ渡航（研究者ビザのため非居住者に） </li>
+  <li>2024年10月〜: フランスの研究所で勤務開始（納税先はフランス） </li>
+   <li>2025年2月: 2024年度分の確定申告作成 </li>
+</ul>
+</div>
+</div>
+
+<h2 id="非居住者でも海外からe-taxを利用できた">非居住者でも海外からe-taxを利用できた</h2>
+
+<p>日本にいるときと同じ方法で、マイナンバーカードとe-Taxを使用して、確定申告できました：</p>
+<ol>
+  <li>e-Tax登録</li>
+  <li>マイナポータル連携</li>
+  <li>e-Taxで必要書類作成、送信</li>
+</ol>
+
+<p>※ 手順は日本で確定申告を行うときと全く同じなので、確定申告の方法は他のサイトを見てください。</p>
+
+<p><span class="marker">私はe-tax上での申請は完了し、還付待ちです。還付され次第更新します。</span>下記がマイナポータルで受信した確定申告完了のお知らせです。
+<img src="../../assets/images/articles/250203_03.jpg" alt="最初の画面" /></p>
+
+<p>ただ、出国前に納税管理人の手続きは念の為、しておいた方が無難な気がします。</p>
+<blockquote>
+  <p><strong>納税管理人</strong>：非居住者の方が、確定申告書の提出、税務署等からの書類の受け取り、税金の納付や還付金の受け取り等、納税義務を果たすために納税管理人を定める必要があります。 引用元：<a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1923.htm">海外勤務と納税管理人の選任又は解任(国税庁）
+</a></p>
+</blockquote>
+
+<p>私は海外からは、e-taxで確定申告できないと思っていたので、2024年度分の確定申告は日本にいる親族にやってもらおうと思っており、出国前に手続きを済ませておりました。</p>
+
+<h2 id="注意点">注意点</h2>
+<p>日本でe-taxから確定申告するときと手順は同じですが、注意点がいくつかあります。</p>
+<h3 id="連絡先">連絡先</h3>
+<ul>
+  <li>日本の電話番号のみ</li>
+  <li>日本の住所のみ</li>
+</ul>
+
+<p>日本の電話番号や住所がない方は、日本の親族なり、納税管理人を届出している方はその方の連絡先にするなり、した方が良いです。
+<span class="marker">メールアドレスの記載欄もあります</span>。最終確認画面で備考欄があるので、「海外在住のため連絡先はメールアドレスにお願いします」と記載することを推奨します。</p>
+
+<h3 id="振り込み口座">振り込み口座</h3>
+<ul>
+  <li>海外の銀行口座は不可</li>
+  <li>本人名義の日本口座限定</li>
+</ul>
+
+<p>非居住者は原則日本の銀行口座を持てないので、口座を持っていない人もいるかもしれません。
+非居住者が唯一持てる銀行がいくつかあるので、それらを作っておいて、登録するのが良いと思います。ちなみに私はソニー銀行です。</p>
+
+<h3 id="納税管理人の選定">納税管理人の選定</h3>
+
+<p>e-taxで申請できなかった頃は、こちらは必須であったはずです。ただ、e-taxで確定申告できるようになっているので、今はどうなのか分かりません。</p>
+<blockquote>
+  <p><strong>納税管理人</strong>：非居住者の方が、確定申告書の提出、税務署等からの書類の受け取り、税金の納付や還付金の受け取り等、納税義務を果たすために納税管理人を定める必要があります。 引用元：<a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1923.htm">海外勤務と納税管理人の選任又は解任(国税庁）
+</a></p>
+</blockquote>
+
+<p>私は、e-taxで確定申告できないと思っていたので、2024年度分の確定申告は日本にいる親族にやってもらおうと思っており、出国前に手続きを済ませておりました。</p>
+
+<h2 id="必要なもの">必要なもの</h2>
+<h3 id="マイナンバーカード">マイナンバーカード</h3>
+<p>マイナンバーカードは海外転出時に、継続利用（？）の手続きが必要だった気がします…（無料）</p>
+
+<h3 id="マイナポータル">マイナポータル</h3>
+<p>マイナポータルで海外転出できているかどうか確認できます。</p>
+
+<ol>
+  <li>
+    <p>マイナポータルにログインし、「公的受け取り口座」をタップ
+<img src="../../assets/images/articles/250203_02.jpg" alt="最初の画面" /></p>
+  </li>
+  <li>
+    <p>住所欄を確認すると、「国外転出X年X月X日」となっているはず
+<img src="../../assets/images/articles/250203_01.jpg" alt="最初の画面" /></p>
+  </li>
+</ol>
+
+<h3 id="e-tax">e-tax</h3>
+<p>e-taxでアカウントの作成が必要です。</p>
+
+<h3 id="日本の銀行口座">日本の銀行口座</h3>
+<p>非居住者が所持できる日本の銀行は”<a href="https://wise.com/jp/blog/moving-abroad-bank-account">海外赴任しても使える銀行口座6選！非居住者向けサービス・手数料解説（Wise）</a>“で紹介されています。</p>
+
+<h2 id="還付はいつ">還付はいつ？</h2>
+<p>還付されたら、この記事を更新します。今回は簡単にe-taxで申請できたかどうかだけの記録です。</p>]]></content><author><name>Juri Yoneyama</name></author><category term="administration" /><summary type="html"><![CDATA[2024年から非居住者でもマイナカードを持てるようになったので、海外からe-taxでの確定申告を試してみました。e-tax上での提出は完了し、還付待ちの状況です。]]></summary></entry><entry><title type="html">【研究者（博士課程）】フランス到着後の滞在許可証手続き</title><link href="http://localhost:4000/blog/posts/france_residence_permit/" rel="alternate" type="text/html" title="【研究者（博士課程）】フランス到着後の滞在許可証手続き" /><published>2024-09-25T00:00:00+02:00</published><updated>2024-09-25T00:00:00+02:00</updated><id>http://localhost:4000/blog/posts/france_residence_permit</id><content type="html" xml:base="http://localhost:4000/blog/posts/france_residence_permit/"><![CDATA[<p>フランスに着いたら, まずは滞在許可証（titre de séjour）の申請が必須です. 日本で取得した「長期ビザ」だけでは長期滞在できません. 手続きは個人でオンラインでできますが, 大学や研究機関には「留学生サポート係」があるので, サポート係と一緒に手続きをするのがベストです.</p>
 
 <h2 id="目次">目次</h2>
 
@@ -6,26 +128,35 @@
   <li><a href=""></a></li>
 </ul>
 
-<h2 id="滞在許可証とは">滞在許可証とは</h2>
+<h2 id="visaと滞在許可証の違い">VISAと滞在許可証の違い</h2>
 
 <p>日本のフランス大使館で無事VISAをゲットしても, 実はそれだけでは長期滞在できないのです. そのVISAをアクティベートすることで滞在許可証となります. 注意しないといけないのが, 滞在許可証の申請には期限があります. VISAに記載されている期限内に行わなければいけません. （i.e. 入国予定日から3ヶ月以内）なのでフランスに着いたら真っ先に申請を行う必要があります.</p>
 
 <h2 id="滞在許可証の申請について">滞在許可証の申請について</h2>
 
-<p>コロナ前までは県庁へ行かなければならなかったようですが, <span class="marker">2024年9月現在はオンラインで申請</span>できます. 博士課程でフランスに来ている場合は, 所属機関の留学生サポート組織が一緒に行ってくれるはずなので, 一度研究室の方に聞いてみてください. “Le Centre de Mobilité Internationale 地名”, “CMI 地名”という名で存在すると思います. 私の場合は CMI Rennesでした.</p>
+<p>コロナ前までは県庁へ行かなければならなかったようですが, <span class="marker">2024年9月現在はオンラインで申請</span>できます. 博士課程でフランスに来ている場合は, 所属機関の留学生サポート組織が一緒に行ってくれるはずなので, 一度研究室の方に聞いてみてください. “Le Centre de Mobilité Internationale 地名”, “CMI 地名”という名で存在すると思います. 私の場合は <a href="https://cmi.univ-rennes.fr/">CMI Rennes</a>でした.</p>
 
 <p>個人でももちろん行えますので, 下記にて個人で申請する方法を紹介します.</p>
 
 <h2 id="オンライン申請のやり方">オンライン申請のやり方</h2>
 
-<p><a href="https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/">Étrangers en France</a>のサイトから申請します.</p>
+<p><a href="https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/">Étrangers en France</a>のサイトの”I would like to apply or renew my visa”から進めていきます.</p>
 
+<p>必要書類は以下です：</p>
 <ol>
-  <li>“I would like to apply or renew my visa”を押します.</li>
-  <li>“Moi-même (à partir de 16 ans)” (16歳以上)を押します.</li>
-  <li>PDFをダウンロードします.</li>
-  <li>必要情報を入力していきます.</li>
+  <li>パスポート</li>
+  <li>ビザ（パスポートに追加してもらったもの）</li>
+  <li>Convention d’accueil（大学や研究機関が発行した受け入れ協定書）</li>
+  <li>労働契約書（大学や研究機関と結んだ契約書）</li>
+  <li>住居証明書</li>
+  <li>出生証明書（戸籍謄本にアポスティーユをもらい, フランス語法定翻訳されたもの）</li>
+  <li>Photomatonで撮影した証明写真</li>
 </ol>
+
+<p>1~3はビザ申請時に必要だったので, 簡単です.
+4は, 大学や研究機関から送られてくるはずです. 未入手の場合は, 研究室に問い合わせてみてください.
+5は, 滞在先の家主が作成する書類です. 家主に”Justicatif de Domicile”を作成してほしいと依頼するともらえるはず. 
+6は, フランスの出生証明書にああ</p>
 
 <p>フランスのビザ発給までの所要期間についてまとめました. 間違っている部分や追記あれば, 遠慮なく<a href="https://forms.gle/QNzFbuAdrYB565GS8">こちら</a>から教えてください.</p>
 
@@ -72,7 +203,7 @@
 <p><ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4810310425717787" data-ad-slot="6627749146"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script></p>]]></content><author><name>Juri Yoneyama</name></author><category term="administration" /><summary type="html"><![CDATA[博士課程をするためにフランスに着いたら, まずしなければならない"titre de séjour"のオンライン申請について. パスポートのVISAだけでは長期滞在できません.]]></summary></entry><entry><title type="html">【フランス】博士課程入学のためのセキュリティチェック</title><link href="http://localhost:4000/blog/posts/france_phd_security-copy/" rel="alternate" type="text/html" title="【フランス】博士課程入学のためのセキュリティチェック" /><published>2024-08-07T00:00:00+02:00</published><updated>2024-08-07T00:00:00+02:00</updated><id>http://localhost:4000/blog/posts/france_phd_security%20copy</id><content type="html" xml:base="http://localhost:4000/blog/posts/france_phd_security-copy/"><![CDATA[<p>外国人学生が, フランスで博士課程に進むには政府と研究期間によるセキュリティチェックを受けなければなりません. 教授から内定をもらっても, この審査を通らなければ博士課程には進めないようです…私の体験を備忘録として書きます.</p>
+</script></p>]]></content><author><name>Juri Yoneyama</name></author><category term="administration" /><summary type="html"><![CDATA[博士課程をするためにフランスに着いたら, まずしなければならない"titre de séjour"のオンライン申請について. パスポートのVISAだけでは長期滞在できません.]]></summary></entry><entry><title type="html">【フランス】博士課程入学のためのセキュリティチェック</title><link href="http://localhost:4000/blog/posts/france_phd_security/" rel="alternate" type="text/html" title="【フランス】博士課程入学のためのセキュリティチェック" /><published>2024-08-07T00:00:00+02:00</published><updated>2024-08-07T00:00:00+02:00</updated><id>http://localhost:4000/blog/posts/france_phd_security</id><content type="html" xml:base="http://localhost:4000/blog/posts/france_phd_security/"><![CDATA[<p>外国人学生が, フランスで博士課程に進むには政府と研究期間によるセキュリティチェックを受けなければなりません. 教授から内定をもらっても, この審査を通らなければ博士課程には進めないようです…私の体験を備忘録として書きます.</p>
 
 <h2 id="目次">目次</h2>
 
