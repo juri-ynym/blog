@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2025-02-23T16:31:19+01:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">フランスPhDメモ</title><subtitle>Inria（フランス国立情報学自動制御研究所）での博士生活を残すためのブログ。</subtitle><author><name>Juri Yoneyama</name></author><entry><title type="html">【非居住者】海外からマイナンバーカードで確定申告できた</title><link href="http://localhost:4000/blog/posts/japan_tax_overseas/" rel="alternate" type="text/html" title="【非居住者】海外からマイナンバーカードで確定申告できた" /><published>2025-02-23T00:00:00+01:00</published><updated>2025-02-23T00:00:00+01:00</updated><id>http://localhost:4000/blog/posts/japan_tax_overseas</id><content type="html" xml:base="http://localhost:4000/blog/posts/japan_tax_overseas/"><![CDATA[<p>2025年2月、<span class="marker">フランスからe-tax（マイナンバーカード利用）で確定申告ができました！</span>非居住者の方が、マイナンバーカードを持てるようになったのは2024年。そのため情報が少なかったので、注意点などを、ここに書いておきます。<span class="marker">確定申告の方法は日本で行うときと全く同じなので、確定申告の詳しい方法を知りたい方は他のサイトを見てください。</span>（現在還付待ち。還付され次第更新します。）</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2025-04-07T22:03:15+02:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">フランスPhDメモ</title><subtitle>Inria（フランス国立情報学自動制御研究所）での博士生活を残すためのブログ。</subtitle><author><name>Juri Yoneyama</name></author><entry><title type="html">【非居住者】海外からマイナンバーカードで確定申告できた</title><link href="http://localhost:4000/blog/posts/japan_tax_overseas/" rel="alternate" type="text/html" title="【非居住者】海外からマイナンバーカードで確定申告できた" /><published>2025-02-23T00:00:00+01:00</published><updated>2025-02-23T00:00:00+01:00</updated><id>http://localhost:4000/blog/posts/japan_tax_overseas</id><content type="html" xml:base="http://localhost:4000/blog/posts/japan_tax_overseas/"><![CDATA[<p><span class="marker">フランスからe-tax（マイナンバーカード利用）で確定申告ができました！</span>そして、<span class="marker">1ヶ月半後に、還付金の案内も届きました！</span>非居住者の方が、マイナンバーカードを持てるようになったのは2024年。そのため情報が少なかったので、注意点などを、ここに書いておきます。<span class="marker">確定申告の方法は日本で行うときと全く同じなので、確定申告の詳しい方法を知りたい方は他のサイトを見てください。</span></p>
 
 <div class="box_cus">
 <div class="cus_title">
@@ -21,7 +21,7 @@
   <li><a href="#私の状況2024年度分の日本での給料がある">私の状況（2024年度分の日本での給料がある）</a></li>
   <li><a href="#非居住者でも海外からe-taxを利用できる">非居住者でも海外からe-taxを利用できた</a></li>
   <li><a href="#注意点">注意点</a></li>
-  <li><a href="#還付はいつ">還付はいつ？</a></li>
+  <li><a href="#還付はいつ">還付はいつ？：申請から1ヶ月半後</a></li>
 </ul>
 
 <h2 id="私の状況2024年度分の日本での給料がある">私の状況（2024年度分の日本での給料がある）</h2>
@@ -54,16 +54,8 @@
 
 <p>※ 手順は日本で確定申告を行うときと全く同じなので、確定申告の方法は他のサイトを見てください。</p>
 
-<p><span class="marker">私はe-tax上での申請は完了し、還付待ちです。還付され次第更新します。</span>下記がマイナポータルで受信した確定申告完了のお知らせです。
+<p>私はe-tax上で、2025年02月23日に申請をしました。下記がマイナポータルで受信した確定申告完了のお知らせです。
 <img src="../../assets/images/articles/250203_03.jpg" alt="最初の画面" /></p>
-
-<p>ただ、出国前に納税管理人の手続きは念の為、しておいた方が無難な気がします。</p>
-<blockquote>
-  <p><strong>納税管理人</strong>：非居住者の方が、確定申告書の提出、税務署等からの書類の受け取り、税金の納付や還付金の受け取り等、納税義務を果たすために納税管理人を定める必要があります。 引用元：<a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1923.htm">海外勤務と納税管理人の選任又は解任(国税庁）
-</a></p>
-</blockquote>
-
-<p>私は海外からは、e-taxで確定申告できないと思っていたので、2024年度分の確定申告は日本にいる親族にやってもらおうと思っており、出国前に手続きを済ませておりました。</p>
 
 <h2 id="注意点">注意点</h2>
 <p>日本でe-taxから確定申告するときと手順は同じですが、注意点がいくつかあります。</p>
@@ -86,14 +78,16 @@
 非居住者が唯一持てる銀行がいくつかあるので、それらを作っておいて、登録するのが良いと思います。ちなみに私はソニー銀行です。</p>
 
 <h3 id="納税管理人の選定">納税管理人の選定</h3>
-
-<p>e-taxで申請できなかった頃は、こちらは必須であったはずです。ただ、e-taxで確定申告できるようになっているので、今はどうなのか分かりません。</p>
+<p>必須かどうかはわかりません。納税管理人は、簡単に言うと、非居住者の方の代わりに、税のやり取り等をする人です。家族等で構いません。e-taxで申請できなかった頃は、こちらは必須であったはずです。ただ、e-taxで確定申告できるようになっているので、今はどうなのか分かりません。</p>
 <blockquote>
   <p><strong>納税管理人</strong>：非居住者の方が、確定申告書の提出、税務署等からの書類の受け取り、税金の納付や還付金の受け取り等、納税義務を果たすために納税管理人を定める必要があります。 引用元：<a href="https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1923.htm">海外勤務と納税管理人の選任又は解任(国税庁）
 </a></p>
 </blockquote>
 
-<p>私は、e-taxで確定申告できないと思っていたので、2024年度分の確定申告は日本にいる親族にやってもらおうと思っており、出国前に手続きを済ませておりました。</p>
+<p>私は海外からは、e-taxで確定申告できないと思っていたので、2024年度分の確定申告は日本にいる親族にやってもらおうと思っており、出国前に手続きを済ませておりました。</p>
+
+<p><strong>（2025年4月7日更新）</strong>
+納税管理人を定めていたがために、還付金のお知らせは日本にいる納税管理人（夫）のもとに届きました。また、マイナポータル上での還付金振り込み口座は私なのに対して、納税管理人は夫になっていたため、納税管理人（夫）名義の銀行口座を教えてくださいという手紙も届きました…もしかして、納税管理人を決めておかないほうが、このような手間はなかったかもしれません（？）ただ、万が一何かあった時に、日本で連絡取れる人がいたほうが安心ですよね…</p>
 
 <h2 id="必要なもの">必要なもの</h2>
 <h3 id="マイナンバーカード">マイナンバーカード</h3>
@@ -120,7 +114,9 @@
 <p>非居住者が所持できる日本の銀行は”<a href="https://wise.com/jp/blog/moving-abroad-bank-account">海外赴任しても使える銀行口座6選！非居住者向けサービス・手数料解説（Wise）</a>“で紹介されています。</p>
 
 <h2 id="還付はいつ">還付はいつ？</h2>
-<p>還付されたら、この記事を更新します。今回は簡単にe-taxで申請できたかどうかだけの記録です。</p>]]></content><author><name>Juri Yoneyama</name></author><category term="administration" /><summary type="html"><![CDATA[2024年から非居住者でもマイナカードを持てるようになったので、海外からe-taxでの確定申告を試してみました。e-tax上での提出は完了し、還付待ちの状況です。]]></summary></entry><entry><title type="html">【研究者（博士課程）】フランス到着後の滞在許可証手続き</title><link href="http://localhost:4000/blog/posts/france_residence_permit/" rel="alternate" type="text/html" title="【研究者（博士課程）】フランス到着後の滞在許可証手続き" /><published>2024-09-25T00:00:00+02:00</published><updated>2024-09-25T00:00:00+02:00</updated><id>http://localhost:4000/blog/posts/france_residence_permit</id><content type="html" xml:base="http://localhost:4000/blog/posts/france_residence_permit/"><![CDATA[<p>フランスに着いたら, まずは滞在許可証（titre de séjour）の申請が必須です. 日本で取得した「長期ビザ」だけでは長期滞在できません. 手続きは個人でオンラインでできますが, 大学や研究機関には「留学生サポート係」があるので, サポート係と一緒に手続きをするのがベストです.</p>
+<p>還付の案内が4月7日に届きました。eTaxで申請をしたのが2月23日なので、<span class="marker">およそ1ヶ月半後</span>です。前述の通り、私は納税管理人を定めていたせいか、通知の案内は日本にいる納税管理人（夫）の元に届きました。また、<span class="marker">納税管理人を定めていた場合は、還付金受取人は納税管理人</span>のようです。そのため納税管理人（夫）の銀行口座情報を提供してくださいという案内も、夫の元に届きました。これらを考えると、納税管理人を定めないほうが良いのか？と思ったりもしますが、念の為定めておいたほうがよさそうな気もします。</p>
+
+<p>完全に振り込まれたら、また更新します。ひとまず還付金の通知が来たので、振り込まれることは確実です。</p>]]></content><author><name>Juri Yoneyama</name></author><category term="administration" /><summary type="html"><![CDATA[2024年から非居住者でもマイナカードを持てるようになったので、海外からe-taxでの確定申告を試してみました。e-tax上での提出は完了し、還付待ちの状況です。]]></summary></entry><entry><title type="html">【研究者（博士課程）】フランス到着後の滞在許可証手続き</title><link href="http://localhost:4000/blog/posts/france_residence_permit/" rel="alternate" type="text/html" title="【研究者（博士課程）】フランス到着後の滞在許可証手続き" /><published>2024-09-25T00:00:00+02:00</published><updated>2024-09-25T00:00:00+02:00</updated><id>http://localhost:4000/blog/posts/france_residence_permit</id><content type="html" xml:base="http://localhost:4000/blog/posts/france_residence_permit/"><![CDATA[<p>フランスに着いたら, まずは滞在許可証（titre de séjour）の申請が必須です. 日本で取得した「長期ビザ」だけでは長期滞在できません. 手続きは個人でオンラインでできますが, 大学や研究機関には「留学生サポート係」があるので, サポート係と一緒に手続きをするのがベストです.</p>
 
 <h2 id="目次">目次</h2>
 
