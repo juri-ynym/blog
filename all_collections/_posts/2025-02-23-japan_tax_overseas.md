@@ -2,7 +2,7 @@
 layout: post
 title: 【非居住者】海外からマイナンバーカードで確定申告できた
 description: 2024年から非居住者でもマイナカードを持てるようになったので、海外からe-taxでの確定申告を試してみました。e-tax上での提出は完了し、還付待ちの状況です。
-date: 2025-02-23
+date: 2025-04-07
 categories: 
   - administration
 cat-name: 渡仏関連
